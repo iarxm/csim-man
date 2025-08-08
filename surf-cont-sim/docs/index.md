@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Principles of Surf Simulation Training for Contests
-hide: footer
-version: v4
+title: Surf Contest Simulator Principles
 ---
 
 # PRINCIPLES OF SIMULATION
@@ -201,6 +199,7 @@ Tournament 2 will be a second cycle with bonus points awarded
 
 ### POINTS ALLOCATION
 
+#### POINTS
 
 | PLACE | POINTS |
 |-------|--------|

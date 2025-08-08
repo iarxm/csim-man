@@ -1,0 +1,31 @@
+site_name: Surf Contest Rulebook
+
+repo_url: https://github.com/iarxm/csim-man
+
+#theme:
+#  name: readthedocs
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.sections
+    - toc.integrate
+    - navigation.tracking
+    - header.autohide
+  palette:
+    primary: white
+
+
+
+extra:
+    generator: false
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - footnotes
+  - tables
+  - admonition
+  - attr_list
