@@ -1,7 +1,6 @@
 title: Principles of Surf Contest Simulation
 description: Official manual of surf contest simulation as implemented in the contest simulator
 
-theme: jekyll-theme-minimal
 markdown: kramdown
 
 remote_theme: just-the-docs
@@ -11,22 +10,4 @@ just_the_docs:
     enabled: true
     min_level: 2
     max_level: 3
-
-#theme: jekyll-theme-slate
-#theme: jekyll-theme-minimal
-
-#theme: jekyll-theme-architect
-#theme: jekyll-theme-cayman
-#theme: jekyll-theme-dinky
-#theme: jekyll-theme-hacker
-#theme: jekyll-theme-leap-day
-#theme: jekyll-theme-merlot
-#theme: jekyll-theme-midnight
-#theme: jekyll-theme-minima
-#theme: jekyll-theme-minimal
-#theme: jekyll-theme-modernist
-#theme: jekyll-theme-slate
-#theme: jekyll-theme-tactile
-#theme: jekyll-theme-time-machine
-
 
