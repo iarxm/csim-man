@@ -3,7 +3,7 @@ description: Official manual of surf contest simulation as implemented in the co
 
 markdown: kramdown
 
-remote_theme: just-the-docs
+theme: just-the-docs
 color_scheme: light
 just_the_docs:
   toc:
