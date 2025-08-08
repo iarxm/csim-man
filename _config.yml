@@ -3,11 +3,16 @@ description: Official Manual of Surf Contest Simulation, in Association with The
 
 markdown: kramdown
 
-theme: just-the-docs
-color_scheme: light
+remote_theme: just-the-docs/just-the-docs  # pin for reproducibility: just-the-docs/just-the-docs@v0.6.3
+
+plugins:
+  - jekyll-remote-theme
+
 just_the_docs:
   toc:
     enabled: true
     min_level: 2
     max_level: 3
+  search_enabled: true
 
+color_scheme: light
