@@ -19,7 +19,7 @@ description: Official manual of surf contest simulation as implemented in the co
 
 markdown: kramdown
 
-remote-theme: just-the-docs
+remote_theme: just-the-docs
 color_scheme: light
 # Optional: enable the table of contents sidebar
 # This will auto-index all headings on the page
