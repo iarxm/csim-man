@@ -17,8 +17,6 @@ theme:
   palette:
     primary: white
 
-
-
 extra:
     generator: false
 
