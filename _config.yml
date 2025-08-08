@@ -1,15 +1,16 @@
 title: Principles of Surf Contest Simulation
 description: Official manual of surf contest simulation as implemented in the contest simulator
-theme: just-the-docs
-color_scheme: light
-#theme: jekyll-theme-minimal
+
+theme: jekyll-theme-minimal
 markdown: kramdown
 
 
+#theme: just-the-docs
+#color_scheme: light
 # Optional: enable the table of contents sidebar
 # This will auto-index all headings on the page
-just_the_docs:
-  toc:
-    enabled: true
-    min_level: 2
-    max_level: 3
+#just_the_docs:
+#  toc:
+#    enabled: true
+#    min_level: 2
+#    max_level: 3
