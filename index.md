@@ -26,11 +26,9 @@ The following is expected of each athlete.
 
 - Undertake each next step with speed.
 - Maintain alertness.
-- Understand when their next heat will be.
-- Keep in mind they are taking the role of an athlete and are therefore committing themselves in the direction of the ideal values of an athlete.
-
-
-Each athlete must return their jersey to the beach marshal bucket immediately after each heat. They must collect their next jersey as quickly as is possible. They must choose a different colour to the previous heat.
+- Understand the sequence of heats and their expected times.
+- Comprehend that taking on the identity of an athlete is to commit oneself to the ideal values of an athlete.
+- Return the jersey to the beach marshal bucket immediately after each heat. Collect the next jersey as quickly as is possible, choosing a different colour to the previous heat.
 
 
 ### Athlete Preparation
@@ -47,20 +45,26 @@ Immediate access to the simulator spreadsheet with an understanding of its layou
 
 Full understanding of everything set out in the spreadsheet and manual.
 
-Consider arriving before check-in so to be fully prepared and to do a thorough and individualized warm-up surf.
-Setup base with ease of access to equipment
+Consider arriving before check-in so to be fully prepared and to provide ample opportunity for a thorough and individualized beach and surf warm-up.
+
+Setup a personal stations with ease of access to equipment in relation to the simulator site.
 
 
 ### Purpose of Simulation
 
-The goal of contest simulation is to create high density exposure to the reality of a contest environment. And to do so for all skill levels, ranging from initial club entry all the way up to ISA Games and WSL Series.
+The problem is that training with an intention alone works out to be insufficient training. A more optimal method of training for a particular athletic goal is to perform regularly in a situation that equivalently emulates the situation under which the goal will be achieved. Rarely will it be argued that casual training ever feels like the high pressure situation of performing in a real contest. To confront face on that which is stressful is a good way to grow into it and become resilient and adaptable under the pressure of that situation. It's an illusion to believe that training the purely technical skills of a sport will in itself provide the basis to succeed in any particular contest. It is perhaps equivalent to thinking that training to swim in a pool would perfectly prepare an athlete to swim in a stormy ocean.
 
-This creates the environment necessary for each individual athlete to benchmark their actual vs imagined progression, and to train the specific skills they lack.
+How common is it to find oneself surfing aimlessly and without an accurate sense to the quality of training and strategy within a short period of a heat? How difficult is it in an actual heat with tough opponents of a similar skill level? What type of thoughts and emotions actually rush through one's mind? What mistakes are made? Consider how valuable it may be to confront these questions on a weekly basis and to begin to solve them earlier rather than later.
 
-!! This is objective testing and skill training, and not a means to perform for showcasing and gaining status, or to beat specific athletes. If that is your intention then you are in the wrong place
+The goal of the contest simulation is to create high density exposure to the reality of a contest environment so to create the basis for the necessary adaption. And to do so for all skill levels, ranging from initial club entry up to both ISA Games and WSL Series Events.
 
-!! For athletes of less skill and experience, it's suggested to generate the motivation to incrementally improve scores by half decimal places over a long period of time. 
-!! And simultaneously to become familiar with the stress and consequence of a contest, and to concurrently develop the skills to find a series of quality waves within a time constraint of 20 minutes.
+This also creates the environment necessary for each individual athlete to benchmark their actual vs imagined progression, and to train the specific skills they lack.
+
+!! Note - even though this is a means of learning to find ease, solve problems and perform under contest pressure, it's not a place to express one's desire to perform so to gain status and feel elated about positive performances. If that is your intention then you are in the wrong place. The intention here is to develop a general attitude of level headedness, joyful effort and graciousness, both in light of wins or losses. Again, it's significant amounts of experience that lends to this outcome.
+
+!! For athletes of less experience and skill, it's suggested to generate the motivation to incrementally improve scores by half decimal places over a longer period of time. And to not predominantly focus on the competitive aspect of the training. Heats can be used as a means to train a technical skill under pressure. Similarly for the highest skilled athletes, the mere attendance in a contest environment over dense regular intervals can unconsciously create the desired adaption.
+
+!! And simultaneously to become familiar with the stress and consequence of competition, and to develop the skills to find a series of quality waves within a constraint of time and pressure.
 
 !! It's also an opportunity to practise alignment with Olympic values, through content such as the ISA code of conduct. This is a more important skill in relation to long term success.
 
