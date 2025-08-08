@@ -1,4 +1,5 @@
 title: Principles of Surf Contest Simulation
 description: Official manual of surf contest simulation as implemented in the contest simulator
-theme: jekyll-theme-minimal
+theme: jekyll-doc-theme
+#theme: jekyll-theme-minimal
 markdown: kramdown

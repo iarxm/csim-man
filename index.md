@@ -1,3 +1,7 @@
+---
+layout: default
+title: Surf Contest Simulator Principles
+---
 
 # PRINCIPLES OF SIMULATION
 
