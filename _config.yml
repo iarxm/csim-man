@@ -1,12 +1,9 @@
 title: Principles of Surf Contest Simulation
 description: Official Manual of Surf Contest Simulation, in Association with The Contest Simulator
 
+theme: just-the-docs
+
 markdown: kramdown
-
-remote_theme: just-the-docs/just-the-docs  # pin for reproducibility: just-the-docs/just-the-docs@v0.6.3
-
-plugins:
-  - jekyll-remote-theme
 
 just_the_docs:
   toc:
@@ -16,3 +13,10 @@ just_the_docs:
   search_enabled: true
 
 color_scheme: light
+
+
+#remote_theme: just-the-docs/just-the-docs  # pin for reproducibility: just-the-docs/just-the-docs@v0.6.3
+#
+#plugins:
+#  - jekyll-remote-theme
+
