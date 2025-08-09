@@ -3,6 +3,7 @@ layout: default
 title: Principles of Surf Simulation Training for Contests
 hide: footer
 version: v4
+toc: true
 ---
 
 # PRINCIPLES OF SIMULATION
