@@ -185,9 +185,60 @@ Consider this as part of the contest simulation, and so, learn how to do so in a
 If an athlete protests, then the schedule may be suspended to resolve the judgement before proceeding with subsequent heats
 
 
+
 ## Simulation Formats
 
+The draws will be split into tournament cycles of different or equivalent formats depending on time available and athletes entered. Tournament 2 will be a second cycle with additional points awarded.
+
+The logic here is to establish a route of consequence which maintains a sense of reality to that of a real contest which provides continuous motivation and focus. Every heat surfed moves an athlete up or down the event ranking.
+
+This provides the motivation to rapidly review and learn from each heat. One poor performance will only move an athlete down slightly, and the next heat will either provide the opportunity to redeem that result completely from that loss or to finish as high as possible relative to their seeding.
+
+The overall points allocated per the event will be normalized to 10,000 or less as described below.
+
+
 ### Draws
+
+### Formats
+
+- Bonus Double ELIM W. divs
+- Best of Three
+- ELO Match OFFS
+- Game of SURF
+- Tag team Claim Your Score
+
+
+#### Bonus Double Elim w. Divs
+
+1. Repacharge system with multiple finals to establish all specific placings after those in the main round final. And with Bonus heats to both generate motivation to earn more points and catch up with main round finalists, and to equalize heat count opportunities.
+1. The higher level seeds can choose to bypass bonus heats so to both simulate wait times found in real contests and to prepare for their main round final. They will however be forfeiting their opportunity to extend their overall point lead.
+
+
+#### Best of Three
+
+- Best of three heats progresses to the next round.
+- Bottom three will be eliminated into the lower division
+- If two athletes draw for a place in the final, it will be decided on the following in order of priority:
+    1. The result of the heat between the surfers who drew.
+    1. The highest average heat score across all three heats.
+    1. A single wave surf off.
+
+#### ELO Match OFFS
+
+Two surfer's decide their own format. The winner increases their ELO score and vice versa.
+
+
+#### Game of SURF
+
+Rock paper scissors, then the first surfer completes a trick and the second emulates it. If they fail they receive a letter in SURF. The first surfer to receive all letters loses the round.
+
+
+#### Claim Your Score Tag Team
+
+Claim the wave you decide to be scored on. Race in and tag your team mate. Repeat.
+
+
+### Heat Title Notation
 
 Examples of shorthand notations that may be found in the simulator app.
 
@@ -200,43 +251,18 @@ Examples of shorthand notations that may be found in the simulator app.
 | FIN1     | SHORTHAND FOR FIN1 1               |                                                                                          |
 
 
-### Formts
-
-- ELO Match offs
-- Game of SURF
-- Tag team Claim Your Score
-- Best of three
-- BONUS Double ELIM W. DIVS
-
-
-
-#### Double elim with bonus and multi divisions
-
-1. Repacharge system with multiple finals to establish all specific placings after those in the main round final. And with Bonus heats to both generate motivation to earn more points and catch up with main round finalists, and to equalize heat count opportunities.
-1. The higher level seeds can choose to bypass bonus heats so to both simulate wait times found in real contests and to prepare for their main round final. They will however be forfeiting their opportunity to extend their overall point lead.
-
-
-#### Best of Three
-
-Best of three heats progresses from round 1. 
-
-If draw for 2nd place, it will be decided on:
-- The result of the heat between the surfers who drew
-Bottom three will go to division 2 final. 
-Tournament 2 will be a second cycle with bonus points awarded
-
 
 
 ### Points Allocation Principles
 
 
-#### Point Stack Per Event
+#### Point Stacking Per Event
 
-The total points within each event will be tallied and the leaders total points will then be used to normalize all allocated points to within 10,000.
+The total points within each event will be tallied and the leaders total points will then normalize all allocated points to be equal to or less than 10,000. The leader will receive 10,000 points.
 
-The leader will receive 10,000 points.
+All other athletes will receive points based on the following
 
-All other athletes will receive `Event_Points = Total_Of_Athlete * ( 10,000 / ( Total_Of_Leader ) ) `
+` $Event_Points = $Total_Of_Athlete * ( 10,000 / ( $Total_Of_Leader ) )`
 
 
 #### Point Stack Per Heat Cycles
@@ -254,7 +280,8 @@ All other athletes will receive `Event_Points = Total_Of_Athlete * ( 10,000 / ( 
 | 9     | 1,800  |
 | 10    | 1,330  |
 
-1. Depending on the number of competitors per tournament cycle, and the format of the cycle, FINAL-2 placing will determine overall placings below those who have progressed to the main round FINAL-1
+Depending on the number of competitors per tournament cycle, and the format of the cycle, FINAL-2 placing will determine overall placings below those who have progressed to the main round FINAL-1
+
 
 ##### Bonus Heats
 
@@ -266,7 +293,6 @@ Bonus Heats will reward extra points to an athlete's overall event stack. This w
 1. A competitor who places 1st in FINAL2 but who places higher than an athlete from FINAL1 in BONUS1 can equalize their points with last place of FINAL1
 1. The general rule is that a skillful result within a BONUS heat presents the opportunity to equalize with an athlete who finishes 1 place ahead in the tournament cycle.
 1. Fourth place would receive equal points to 3rd; 5th to 4th and so on.
-
 
 
 
