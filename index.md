@@ -190,31 +190,33 @@ Consider this as part of the contest simulation and as part of the desired learn
 
 ## Simulation Formats
 
-The draws will be split into tournament cycles of different or equivalent formats depending on time available and athletes entered. Tournament 2 will be a second cycle with additional points awarded.
+Each simulation will generally be tied into a ranking established across a simulation series. This will be implemented via a point system with the WSL system taking first precedence in the modelling.
 
-The logic here is to establish a route of consequence which maintains a sense of reality to that of a real contest which provides continuous motivation and focus. Every heat surfed moves an athlete up or down the event ranking.
+A goal of a simulation draw within an event is to maximize the heats surfed with all the core goals of simulation in mind. This implies cycles of tournaments within the training session, with divisional finals and bonus heats.
 
-This provides the motivation to rapidly review and learn from each heat. One poor performance will only move an athlete down slightly, and the next heat will either provide the opportunity to redeem that result completely from that loss or to finish as high as possible relative to their seeding.
+The draw will be split into tournament cycles of different or equivalent formats depending on time available and athletes entered. 'Tournament 2' will be a second cycle with additional points awarded, and so on.
+
+The logic is to establish a route of consequence which maintains a sense of reality to that of a real contest. This provides continuous motivation and focus. Every heat surfed moves an athlete up or down the event ranking.
+
+This provides the motivation to rapidly review and learn from each heat. One poor performance will only move an athlete down slightly, and the next heat will either provide the opportunity to completely recover from that loss or to finish as high as possible relative to their evolving event seed.
 
 The overall points allocated per the event will be normalized to 10,000 or less as described below.
 
 
-### Draws
-
 ### Draw Formats
 
-- Bonus Double ELIM W. divs
+- Straight Elimination
+- Straight Elimination with divisions and bonus.
+- Bonus Double ELIM with DIVS
 - Best of Three
 - Best of Three with Finals
 - Best of X heats
-- Straight Elimination
-- Straight Elimination with divisions and bonus.
 - ELO Tournaments
 
 
 #### Bonus Double Elim w. Divs
 
-1. Repacharge system with multiple finals to establish all specific placings after those in the main round final. And with Bonus heats to both generate motivation to earn more points and catch up with main round finalists, and to equalize heat count opportunities.
+1. Repechage system with multiple finals to establish all specific placings after those in the main round final. And with Bonus heats to both generate motivation to earn more points and catch up with main round finalists, and to equalize heat count opportunities.
 1. The higher level seeds can choose to bypass bonus heats so to both simulate wait times found in real contests and to prepare for their main round final. They will however be forfeiting their opportunity to extend their overall point lead.
 
 
@@ -228,19 +230,10 @@ The overall points allocated per the event will be normalized to 10,000 or less 
     1. A single wave surf off.
 
 
-### Heat Types
+### Heat Types - Conventional
 
-- Conventional
-    - Traditional
-    - Modifications for crowd control
-    - Single, double, triple or quadruple wave heat
-    - Best single wave score
-    - ELO Match OFFS
+### Traditional
 
-- Progressive Types
-    - Game of SURF
-    - Tag team Claim Your Score
-    - Opponent Simulation via Athlete Bot Engine.
 
 #### Modifications for Crowd Control
 
@@ -254,9 +247,21 @@ The overall points allocated per the event will be normalized to 10,000 or less 
     - Establish presence which discourages free surfer's from joining lineup.
 
 
+#### Limited Wave Count
+
+- Single, double, triple or quadruple wave allowance per heat
+- Best single wave score
+
+
 #### ELO Match OFFS
 
 Two surfer's decide their own format. The winner increases their ELO score and vice versa.
+
+
+### Heat Types - Progressive
+    - Game of SURF
+    - Tag team Claim Your Score
+    - Opponent Simulation via Athlete Bot Engine.
 
 
 #### Game of SURF
