@@ -184,8 +184,7 @@ Mistakes are expected in judging and organisation. Any system administered by hu
 
 Develop understanding and patience. If it feels like a judgement or protest was unfairly dealt with, continue to raise the top constructively with persistence.
 
-Consider this as part of the contest simulation and as part of the desired learning outcomes learn to protest as constructively and critically as possible. Stay calm and persist under pressure. Learn to facilitate a critical conversation when the point of contact is not reciprocating a critical conversation. Learn to accept when wrong and move forward. And achieve all of this without any negative psychological consequences. Develop resilience.
-
+Consider this as part of the contest simulation. As part of the desired learning outcomes learn to protest as constructively and critically as possible. Stay calm and persist under pressure. Learn to facilitate a critical conversation when the point of contact is not reciprocating a willingness towards critical conversation. Learn to be gracious when proven wrong or right and move forward to the next task without hesitation. Achieve all of this without any negative psychological consequences. Develop resilience.
 
 
 ## Simulation Formats
