@@ -199,13 +199,15 @@ The overall points allocated per the event will be normalized to 10,000 or less 
 
 ### Draws
 
-### Formats
+### Draw Formats
 
 - Bonus Double ELIM W. divs
 - Best of Three
-- ELO Match OFFS
-- Game of SURF
-- Tag team Claim Your Score
+- Best of Three with Finals
+- Best of X heats
+- Straight Elimination
+- Straight Elimination with divisions and bonus.
+- ELO Tournaments
 
 
 #### Bonus Double Elim w. Divs
@@ -223,6 +225,33 @@ The overall points allocated per the event will be normalized to 10,000 or less 
     1. The highest average heat score across all three heats.
     1. A single wave surf off.
 
+
+### Heat Types
+
+- Conventional
+    - Traditional
+    - Modifications for crowd control
+    - Single, double, triple or quadruple wave heat
+    - Best single wave score
+    - ELO Match OFFS
+
+- Progressive Types
+    - Game of SURF
+    - Tag team Claim Your Score
+    - Opponent Simulation via Athlete Bot Engine.
+
+#### Modifications for Crowd Control
+
+- Only Inside waves count
+- 4 set waves over 30 minutes
+- Organisational Strategies
+    - Arrive first and take priority of the lineup before free surfers arrive.
+    - Keep athletes with coloured rash vests in the water at all times.
+    - Make regular horn and whistle noises.
+    - Utilize large color board and make judging site visible to judges.
+    - Establish presence which discourages free surfer's from joining lineup.
+
+
 #### ELO Match OFFS
 
 Two surfer's decide their own format. The winner increases their ELO score and vice versa.
@@ -230,10 +259,14 @@ Two surfer's decide their own format. The winner increases their ELO score and v
 
 #### Game of SURF
 
-Rock paper scissors, then the first surfer completes a trick and the second emulates it. If they fail they receive a letter in SURF. The first surfer to receive all letters loses the round.
+1. Rock paper scissors.
+1. Winner goes first and completes a trick.
+1. Second surfer attempts to emulate the maneuver.
+1. If they fail they receive a letter in SURF.
+1. The first surfer to receive all letters loses the round.
 
 
-#### Claim Your Score Tag Team
+#### Claim Your Score with or without Tag Team
 
 Claim the wave you decide to be scored on. Race in and tag your team mate. Repeat.
 
