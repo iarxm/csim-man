@@ -221,7 +221,11 @@ There will be errors made in implementing this until it's worked out more precis
 
 Protesting is encouraged where there is a perceived error of consequence. In some cases, a major error can be reversed if the reversal is practical but in general the result is final.
 
-In the case of a protest, the schedule may be suspended to resolve the topic before proceeding with subsequent heats. Resolution can take the form of re-surfs, surf off's, and direct amendment of the result.
+In the case of a protest, the schedule may be suspended to resolve the topic before proceeding with subsequent heats. If a complicated and attention demanding protest is raised during an active heat with in simulation of 1 judge, then the protest will be postponed until the active heat is finished and attention can be redirected towards addressing it.
+
+Considering this is the general process it's therefore important to raise the protest as quickly as possible so if necessary the judge can alert the athletes who may be about to paddle out in the next heat.
+
+Resolution can take the form of re-surfs, surf off's, and direct amendment of the result.
 
 Protesting achieves the following
 
@@ -357,9 +361,7 @@ The total points within each event will be tallied and the leaders total points 
 
 All other athletes will receive points based on the following
 
-`
-Event_Points = Total_Of_Athlete * ( 10,000 / ( Total_Of_Leader ) )
-`
+$Event_Points = $Total_Of_Athlete * ( 10,000 / ( $Total_Of_Leader ) )
 
 
 #### Points Per Tournament Cycles
