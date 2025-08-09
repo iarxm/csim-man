@@ -17,22 +17,22 @@ toc: true
 
 ### Briefing
 
-This manual of principles is written for all skill and experience levels. It may appear dense with detail to address all needs therefore it's important for each athlete to pick out parts which are personally relevant to them.
+These principles of training are written for all levels of skill and experience. It may be dense with detail so to address all possible principles, therefore it's important for each athlete to pick out parts which are personally relevant.
 
-The simulator apps currently resides as a google spreadsheet shared ahead of the contest simulation.
+The simulator app to be used currently exists as a google spreadsheet and will be shared ahead of each contest simulation.
 
 Athlete's are expected to
 
 - Understand the structure of the manual so to quickly find reference to elements used in training such at the Olympic Values which may be read during the check-in meeting
 - Understand the navigation of the simulator app to comprehend the status of heats, scores and schedules.
-- Ensure immediate access to the app throughout training and to have downloaded the google sheets app.
+- Ensure immediate access to the app throughout training and to have downloaded to phone the google sheets app.
 - Understand the sequence of heats and their expected times.
 
 The following commitments are expected throughout the course of training
 
 - Undertake each next step with speed and conscientiousness. Particular emphasis is to be placed on returning to the beach marshal post heat and preparing for the subsequent heat.
 - Maintain alertness and be on immediate standby to a rapidly evolving plan.
-- Comprehend what is means to be an athlete in relation to values and principles. Understanding that taking on the identity of an athlete is to commit oneself to the ideal values of being an athlete.
+- Comprehend what it means principally to be an athlete with an understanding that taking on such an identity is to imply oneself towards the ideal values of an athlete.
 
 Maintain recall of the following as they will act as keystone habits for more important skills and outcomes.
 
@@ -40,8 +40,8 @@ Maintain recall of the following as they will act as keystone habits for more im
     - Stay focused after the heat finishes and move rapidly to the next task.
     - Choosing a different jersey colour to the previous heat. Avoid inquiring whether it's acceptable to wear the same jersey. Develop the habit to change colors without hesitation.
 - Maintain a watch and keep close awareness on time.
-- Maintain a quality wax job as this will be a benchmark for attention to other important details.
-    - Slacking on such a detail will increase the probability that other problems will go wrong.
+- Maintain board with quality waxing as this will be a benchmark for attention to other important details.
+    - Lack of care to such a detail will increase the probability that other problems will go wrong.
 
 
 ### Equipment And Logistical Preparation
