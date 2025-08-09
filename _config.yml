@@ -4,7 +4,7 @@ url: https://iarxm.github.io/csim-man
 repository: iarxm/csim-man
 base-url: csim-man
 
-theme: jekyll-them-slate
+theme: jekyll-theme-minimal
 
 
 markdown: kramdown
