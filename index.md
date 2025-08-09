@@ -281,7 +281,12 @@ The overall points allocated per the event will be normalized to 10,000 or less 
 
 ### Heat Types - Conventional
 
-### Traditional
+#### Traditional Heat
+
+- Heat with 2 to 4 person's.
+- Max 15 waves with 2 best counting.
+- Each wave scored on a scale between 0 to 10.
+- Typically 20 minutes long with 5 minute paddle out.
 
 
 #### Modifications for Crowd Control
@@ -308,10 +313,6 @@ Two surfer's decide their own format. The winner increases their ELO score and v
 
 
 ### Heat Types - Progressive
-    - Game of SURF
-    - Tag team Claim Your Score
-    - Opponent Simulation via Athlete Bot Engine.
-
 
 #### Game of SURF
 
@@ -325,6 +326,11 @@ Two surfer's decide their own format. The winner increases their ELO score and v
 #### Claim Your Score with or without Tag Team
 
 Claim the wave you decide to be scored on. Race in and tag your team mate. Repeat.
+
+
+#### Athlete Simulation Bots
+
+Future implementation - athlete engine's from WSL profiles which predict the performance and scores of such an athlete in relation to available set waves and their probabilities of turning a small wave into a large score. Bot simulation as if the athlete is surfing the heat remotely.
 
 
 ### Heat Title Notation
@@ -351,7 +357,9 @@ The total points within each event will be tallied and the leaders total points 
 
 All other athletes will receive points based on the following
 
-` $Event_Points = $Total_Of_Athlete * ( 10,000 / ( $Total_Of_Leader ) )`
+`
+Event_Points = Total_Of_Athlete * ( 10,000 / ( Total_Of_Leader ) )
+`
 
 
 #### Points Per Tournament Cycles
