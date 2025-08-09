@@ -169,20 +169,22 @@ There will be errors made in implementing this until it's worked out more precis
 
 ### Protest
 
-You're encouraged to protest your scores when you reason an error is significant
-In some cases, a major error can be reversed if the reversal is practical. But in general the result is final.
+Protesting is encouraged where there is a perceived error of consequence. In some cases, a major error can be reversed if the reversal is practical but in general the result is final.
+
+In the case of a protest, the schedule may be suspended to resolve the topic before proceeding with subsequent heats. Resolution can take the form of re-surfs, surf off's, and direct amendment of the result.
 
 Protesting achieves the following
-A. Improves judging and event management
-B. Improves dialogue with judges over errors made, and thus improves capacities in protesting results at real events
-C. Improves your understanding of the judging criteria and priority
 
-The organizers and judges will make mistakes. And they will also respond to protests with mistakes.
-Be understanding and patient with this
-If you feel like a judgement or protest was unfairly dealt with, try again.
-Consider this as part of the contest simulation, and so, learn how to do so in a way where your surfing will not suffer from the possible psychological consequences of recieving an unwanted decision. Develop resilience.
+- A. Improves judging and event management by facilitating the realisation of errors.
+- B. Improves ability to have difficult conversations with judges and administrators over errors made. Improves capacities in protesting results at real events.
+- C. Improves understanding of the judging criteria and contest rules through critical debate.
 
-If an athlete protests, then the schedule may be suspended to resolve the judgement before proceeding with subsequent heats
+
+Mistakes are expected in judging and organisation. Any system administered by humans will be prone to human error. A more reliable way to establish trust in a organisation is to be honest about that nature and to encourage open dialogue towards rapid improvement. Note that this process of creating critical thinking and open dialogue is even more prone to error than the subject in question. Mistakes will be made in protest and in response to protest.
+
+Develop understanding and patience. If it feels like a judgement or protest was unfairly dealt with, continue to raise the top constructively with persistence.
+
+Consider this as part of the contest simulation and as part of the desired learning outcomes learn to protest as constructively and critically as possible. Stay calm and persist under pressure. Learn to facilitate a critical conversation when the point of contact is not reciprocating a critical conversation. Learn to accept when wrong and move forward. And achieve all of this without any negative psychological consequences. Develop resilience.
 
 
 
