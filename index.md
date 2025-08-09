@@ -191,17 +191,23 @@ If an athlete protests, then the schedule may be suspended to resolve the judgem
 
 Examples of shorthand notations that may be found in the simulator app.
 
-| Notation | Description                        |
-|----------|------------------------------------|
-| RND1 1   | ROUND 1 HEAT 1                     |
-| RND2     | SHORTHAND FOR ALL HEATS OF ROUND 2 |
-| BON1 1   | BONUS 1 HEAT 1                     |
-| FIN1 1   | FINAL OF DIVISION 1, HEAT 1        | Typically just 1 heat although sometimes a multi heat final with eg best of 3 can be run |
-| FIN1     | SHORTHAND FOR FIN1 1               |
+| Notation   | Description                          |                                                                                          |
+|------------|--------------------------------------|------------------------------------------------------------------------------------------|
+| RND1 1 | ROUND 1 HEAT 1                     |                                                                                          |
+| RND2   | SHORTHAND FOR ALL HEATS OF ROUND 2 |                                                                                          |
+| BON1 1 | BONUS 1 HEAT 1                     |                                                                                          |
+| FIN1 1 | FINAL OF DIVISION 1, HEAT 1        | Typically just 1 heat although sometimes a multi heat final with eg best of 3 can be run |
+| FIN1   | SHORTHAND FOR FIN1 1               |                                                                                          |
 
 Double elim with bonus and multi divisions:
 Repacharge system with multiple finals to establish all specific placings after those in the main round final. And with Bonus heats to both generate motivation to earn more points and catch up with main round finalists, and to equalize heat count opportunities.
 The higher level seeds can choose to bypass bonus heats so to both simulate wait times found in real contests and to prepare for their main round final. They will however be forfeiting their opportunity to extend their overall point lead.
+
+
+Double Elim; Div Finals; Bonus
+
+
+#### Best of Three
 
 Best of three heats progresses from round 1. 
 
@@ -211,8 +217,20 @@ Bottom three will go to division 2 final.
 Tournament 2 will be a second cycle with bonus points awarded
 
 
+
 ### POINTS ALLOCATION
 
+
+#### Point Stack Per Event
+
+The total points within each event will be tallied and the leaders total points will then be used to normalize all allocated points to within 10,000.
+
+The leader will receive 10,000 points.
+
+All other athletes will receive `Event_Points = Total_Of_Athlete * ( 10,000 / ( Total_Of_Leader ) ) `
+
+
+#### Point Stack Per Heat Cycles
 
 | PLACE | POINTS |
 |-------|--------|
@@ -240,6 +258,7 @@ A competitor who places 2nd in FINAL2 but who places higher than 1st of FINAL2 i
 A competitor who places 1st in FINAL2 but who places higher than an athlete from FINAL1 in BONUS1 can equalize their points with last place of FINAL1
 
 The general rule is that a skillful result within a BONUS heat presents the opportunity to equalize with an athlete who finishes 1 place ahead in the tournament cycle. 4th place would recieve equal points to 3rd; 5th to 4th and so on.
+
 
 
 ## Olympic Principles
