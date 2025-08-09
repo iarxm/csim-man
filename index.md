@@ -265,7 +265,7 @@ All other athletes will receive points based on the following
 ` $Event_Points = $Total_Of_Athlete * ( 10,000 / ( $Total_Of_Leader ) )`
 
 
-#### Point Stack Per Heat Cycles
+#### Points Per Tournament Cycles
 
 | PLACE | POINTS |
 |-------|--------|
@@ -283,7 +283,7 @@ All other athletes will receive points based on the following
 Depending on the number of competitors per tournament cycle, and the format of the cycle, FINAL-2 placing will determine overall placings below those who have progressed to the main round FINAL-1
 
 
-##### Bonus Heats
+#### Points Per Bonus Heats
 
 Bonus Heats will reward extra points to an athlete's overall event stack. This will be relative to an athlete's performance relative to their respective categories such as cases where they relatively out perform athletes of a higher seeding.
 
@@ -354,7 +354,7 @@ It's common in contests to experience non optimal gaps of time between heats, th
 These considerations assume it's feasible to fully dry and that sufficient thermal clothing is at hand. Consider options in the case of heavy rain and no access to either shelter or water proof clothing. It may also be of significant benefit to bring warm water and warm food to augment temperature regulation. However, note that eating too much can be equally problematic.
 
 
-#### Energy Control
+#### Emotional Control
 
 Be cautious with coffee and tea. They can be of benefit in other contexts, but with regards to surfing there is a very high risk they will interference with control of emotion, temperature and circulation.
 
