@@ -23,7 +23,9 @@ extra:
 markdown_extensions:
   - toc:
       permalink: true
+      toc_depth: 2-4   # tweak as you like
   - footnotes
   - tables
   - admonition
   - attr_list
+

@@ -10,8 +10,7 @@ toc: true
 
 (DRAFT V4)
 
-1. TOC
-{:toc}
+[TOC]
 
 ## Necessary Preparation
 
