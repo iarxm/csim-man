@@ -1,4 +1,4 @@
-title: Principles of Surf Contest Simulation
+title: Surf Simulation
 description: Official Manual of Surf Contest Simulation, in Association with The Contest Simulator
 url: https://iarxm.github.io/csim-man
 repository: iarxm/csim-man
@@ -11,8 +11,8 @@ markdown: kramdown
 just_the_docs:
   toc:
     enabled: true
-    min_level: 2
-    max_level: 3
+    min_level: 1
+    max_level: 4
   search_enabled: true
 
 color_scheme: light

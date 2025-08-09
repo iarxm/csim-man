@@ -9,6 +9,8 @@ version: v4
 
 (DRAFT V4)
 
+1. TOC
+{:toc}
 
 ## Necessary Preparation
 
