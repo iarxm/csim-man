@@ -191,20 +191,29 @@ If an athlete protests, then the schedule may be suspended to resolve the judgem
 
 Examples of shorthand notations that may be found in the simulator app.
 
-| Notation   | Description                          |                                                                                          |
-|------------|--------------------------------------|------------------------------------------------------------------------------------------|
-| RND1 1 | ROUND 1 HEAT 1                     |                                                                                          |
-| RND2   | SHORTHAND FOR ALL HEATS OF ROUND 2 |                                                                                          |
-| BON1 1 | BONUS 1 HEAT 1                     |                                                                                          |
-| FIN1 1 | FINAL OF DIVISION 1, HEAT 1        | Typically just 1 heat although sometimes a multi heat final with eg best of 3 can be run |
-| FIN1   | SHORTHAND FOR FIN1 1               |                                                                                          |
-
-Double elim with bonus and multi divisions:
-Repacharge system with multiple finals to establish all specific placings after those in the main round final. And with Bonus heats to both generate motivation to earn more points and catch up with main round finalists, and to equalize heat count opportunities.
-The higher level seeds can choose to bypass bonus heats so to both simulate wait times found in real contests and to prepare for their main round final. They will however be forfeiting their opportunity to extend their overall point lead.
+| Notation | Expanded Titles                    | Notes                                                                                    |
+|----------|------------------------------------|------------------------------------------------------------------------------------------|
+| RND1 1   | ROUND 1 HEAT 1                     |                                                                                          |
+| RND2     | SHORTHAND FOR ALL HEATS OF ROUND 2 |                                                                                          |
+| BON1 1   | BONUS 1 HEAT 1                     |                                                                                          |
+| FIN1 1   | FINAL OF DIVISION 1, HEAT 1        | Typically just 1 heat although sometimes a multi heat final with eg best of 3 can be run |
+| FIN1     | SHORTHAND FOR FIN1 1               |                                                                                          |
 
 
-Double Elim; Div Finals; Bonus
+### Formts
+
+- ELO Match offs
+- Game of SURF
+- Tag team Claim Your Score
+- Best of three
+- BONUS Double ELIM W. DIVS
+
+
+
+#### Double elim with bonus and multi divisions
+
+1. Repacharge system with multiple finals to establish all specific placings after those in the main round final. And with Bonus heats to both generate motivation to earn more points and catch up with main round finalists, and to equalize heat count opportunities.
+1. The higher level seeds can choose to bypass bonus heats so to both simulate wait times found in real contests and to prepare for their main round final. They will however be forfeiting their opportunity to extend their overall point lead.
 
 
 #### Best of Three
@@ -218,7 +227,7 @@ Tournament 2 will be a second cycle with bonus points awarded
 
 
 
-### POINTS ALLOCATION
+### Points Allocation Principles
 
 
 #### Point Stack Per Event
@@ -245,19 +254,20 @@ All other athletes will receive `Event_Points = Total_Of_Athlete * ( 10,000 / ( 
 | 9     | 1,800  |
 | 10    | 1,330  |
 
-Bonus heats may carry an allocation of extra points to the athletes in their respective categories if they manage to out compete athletes of a higher seeding.
-If an eliminated surfer places higher than the highest performing surfer, they may earn an extra 2000 points.
-If they perform better than the highest placing athlete in the division 2 final, they may receive enough points to equalize their overall placing on the points leader board with that athlete
+1. Depending on the number of competitors per tournament cycle, and the format of the cycle, FINAL-2 placing will determine overall placings below those who have progressed to the main round FINAL-1
 
-Depending on the number of competitors per tournament cycle in the event, FINAL2 placing will determine overall placings below those who have progressed to the main FINAL1
+##### Bonus Heats
 
-Bonus Heats will reward extra points to an athletes overall stack of event points.
+Bonus Heats will reward extra points to an athlete's overall event stack. This will be relative to an athlete's performance relative to their respective categories such as cases where they relatively out perform athletes of a higher seeding.
 
-A competitor who places 2nd in FINAL2 but who places higher than 1st of FINAL2 in BONUS1 can equalize their points with that competitor in that cycle
+1. If an eliminated surfer places higher than the highest performing surfer, they may earn the equivalent of an additional 2000 points.
+1. If they perform better than the highest placing athlete in the division 2 final, they may receive additional points to equalize their overall placing with that athlete in that cycle on the points leader board.
+1. A competitor who places 2nd in FINAL2 but who places higher than 1st of FINAL2 in BONUS1 can equalize their points with that competitor in that cycle
+1. A competitor who places 1st in FINAL2 but who places higher than an athlete from FINAL1 in BONUS1 can equalize their points with last place of FINAL1
+1. The general rule is that a skillful result within a BONUS heat presents the opportunity to equalize with an athlete who finishes 1 place ahead in the tournament cycle.
+1. Fourth place would receive equal points to 3rd; 5th to 4th and so on.
 
-A competitor who places 1st in FINAL2 but who places higher than an athlete from FINAL1 in BONUS1 can equalize their points with last place of FINAL1
 
-The general rule is that a skillful result within a BONUS heat presents the opportunity to equalize with an athlete who finishes 1 place ahead in the tournament cycle. 4th place would recieve equal points to 3rd; 5th to 4th and so on.
 
 
 
@@ -304,11 +314,28 @@ An athlete who competes is committed to the following:
 
 ### Training Principles
 
-Speed is essential to ensuring success throughout the event. It allows for contingencies when problems arise. For example if it's realised that a backup board would be more suitable for the subsequent heat but time was needlessly lost during return to the contest site, it may either make the contingency infeasible or bring about a sense of rush which is not optimal for the performance in the next heat.
+#### Focus and Attention
 
-It's common to have awkward time gaps between heats therefore think through and experiment how to pragmatically navigate this. In general, if the gap is long enough it's worth getting fully changed and dry. Heat is the core factor related to athletic performance and being damp whilst sitting idle can cause the body to start to shut down. Even if the body begins to shut down, it's significantly more effective to do so after being dry and giving the body a rest from being in a wetsuit.
+Speed and focus is essential to ensuring success throughout the event. It allows for contingencies when problems arise. For example if it's realised that a backup board would be more suitable for the subsequent heat but time was needlessly lost during return to the contest site, it may either make the contingency infeasible or bring about a sense of rush which is not optimal for the performance in the next heat.
 
-These factors assume it's possible to fully dry and that sufficient thermal clothing is at hand. It would also be of significant benefit to bring warm water and warm food. However, note that eating too much can be counter productive. Coffee and tea can be of benefit but they carry a high risk with regard to regulating emotion in the context of contest pressure. Caffeine interferes with heat regulation as well as one's ability to lower one's emotional energy when such is too high.
+Consider what you need to prepare for your next heat before engaging in anything unrelated to the performance of that heat.
+
+
+#### Temperature Control
+
+It's common in contests to experience non optimal gaps of time between heats, therefore think through such situations and experiment with how to pragmatically navigate these possibilities. In general, if the gap is just long enough, it can be of better value to be fully unsuited and dry. Temperature and circulation are core factors relating to athletic performance, and being damp whilst waiting idle can cause the body to start to shut down. In the case of exhaustion and physical shutdown, it's significantly more effective to override this state from a short period of being dry and unsuited. Even a wetsuit which has dried whilst being worn still causes stress, and interfere with circulation.
+
+These considerations assume it's feasible to fully dry and that sufficient thermal clothing is at hand. Consider options in the case of heavy rain and no access to either shelter or water proof clothing. It may also be of significant benefit to bring warm water and warm food to augment temperature regulation. However, note that eating too much can be equally problematic.
+
+
+#### Energy Control
+
+Be cautious with coffee and tea. They can be of benefit in other contexts, but with regards to surfing there is a very high risk they will interference with control of emotion, temperature and circulation.
+
+In the context of contest pressure it's most desirable to be adaptable through the ability to increase of decrease one's degree of focus and energy through the mind alone. Second to this, control can be sought through exercise and breathing. Third priority to this is the use of caffeine however it's generally not worth the risk as it interferes with the ability to use the first two means.
+
+The mental energy associated with competing is chaotic and it's important to consider one's ability to pivot.
+
+The goal of contest simulation is to train oneself to become resilient and focused under such pressures by relying on the mechanics of the mind alone.
 
 ...
-
