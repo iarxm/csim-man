@@ -175,8 +175,23 @@ If possible, a timer will be displayed by the color board which can be checked b
 
 #### Considerations To The Athlete
 
-Considering this, the goal of the athlete is to achieve the most critical maneuver possible during the heat. And to do so on two separate waves.
+Considering this, the focus of the athlete is to find the best opportunity to complete the most critical maneuver possible for them during the heat. And to do so on two separate waves. The attention is therefore to search for the steepest and most energy dense section, and to skillfully place oneself within a high and tight trajectory across that section.
 
+In another sense this is a means of being in the right place at the right time with the right body posture.
+
+Once that is the near term object of attention, the athlete can work in reverse order to get to that point. The 12 Skills of an excellent score can be used for problem solving this during planning and execution.
+
+1. Thorough on beach preparation: Skillful observation; Physical warm-up; Surf movement simulation
+2. Lineup positioning in relation to landmarks
+3. Lineup positioning in relation to opponents
+4. Wave selection
+5. Peak Positioning
+6. Wave Entry
+7. Halo turn - first major maneuver
+
+The fist half off the skills which all precede standing on the board is the fundamental path through the first 8 points of the 10 point wave judging scale. These are the skills which go into being at the right place at the right time.
+
+Consider these ideas with utmost importance.
 
 
 ### Scoring Parity
