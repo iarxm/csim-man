@@ -4,18 +4,20 @@ url: https://iarxm.github.io/csim-man
 repository: iarxm/csim-man
 base-url: csim-man
 
-theme: just-the-docs
+theme: jekyll-them-slate
+
 
 markdown: kramdown
 
-just_the_docs:
-  toc:
-    enabled: true
-    min_level: 1
-    max_level: 4
-  search_enabled: true
+#theme: just-the-docs
+#just_the_docs:
+#  toc:
+#    enabled: true
+#    min_level: 1
+#    max_level: 4
+#  search_enabled: true
 
-color_scheme: light
+#color_scheme: light
 
 
 #remote_theme: just-the-docs/just-the-docs  # pin for reproducibility: just-the-docs/just-the-docs@v0.6.3
