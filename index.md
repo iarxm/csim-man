@@ -17,52 +17,67 @@ toc: true
 
 ### Briefing
 
-The running principles aim to emulate as specifically as possible the rulebooks of both the International Surf Association and the World Surf League.
+This manual of principles is written for all skill and experience levels. It may appear dense with detail to address all needs therefore it's important for each athlete to pick out parts which are personally relevant to them.
 
-Principles from those rulebooks are assumed, unless otherwise stated within this manual. When there are conflicting principles, this manual and associated draw spreadsheet will take first precedent. Then the ISA rulebook will take precedent over the WSL rulebook.
+The simulator apps currently resides as a google spreadsheet shared ahead of the contest simulation.
 
-Each athlete is expected to read this manual to understand the purpose and mechanics of this type of training. This implies achieving an understanding of the draw format, the scheduling and the principles of how to train.
+Athlete's are expected to
 
-It's essential to be able to navigate this document so as to be able to find all relevant information. For example we may read the 'Athletes Code of Conduct' during the check-in meeting therefore it's necessary to have access to it. This is also the case for the contest simulator app, so to be able to locate the schedule, the draw, and the scores of each heat. Ensure immediate access to the link to the spreadsheet, and download the google sheets smartphone app.
-
-The following is expected of each athlete throughout training.
-
-- Undertake each next step with speed.
-- Maintain alertness.
+- Understand the structure of the manual so to quickly find reference to elements used in training such at the Olympic Values which may be read during the check-in meeting
+- Understand the navigation of the simulator app to comprehend the status of heats, scores and schedules.
+- Ensure immediate access to the app throughout training and to have downloaded the google sheets app.
 - Understand the sequence of heats and their expected times.
-- Have a comprehension that taking on the identity of an athlete is to commit oneself to the ideal values of being an athlete.
 
-Maintain recall of the following
+The following commitments are expected throughout the course of training
 
-- Return jersey's to the beach marshal jersey container or stand immediately after each heat.
-- Promptly collect jersey's for the next heat, remembering to choose a different colour to the previous heat.
-- Avoid inquiring whether it's acceptable to wear the same jersey. Make it a habit to change colors without hesitation.
+- Undertake each next step with speed and conscientiousness. Particular emphasis is to be placed on returning to the beach marshal post heat and preparing for the subsequent heat.
+- Maintain alertness and be on immediate standby to a rapidly evolving plan.
+- Comprehend what is means to be an athlete in relation to values and principles. Understanding that taking on the identity of an athlete is to commit oneself to the ideal values of being an athlete.
+
+Maintain recall of the following as they will act as keystone habits for more important skills and outcomes.
+
+- Return jersey's immediately after each heat.  Promptly collect jersey's for the next heat.
+    - Stay focused after the heat finishes and move rapidly to the next task.
+    - Choosing a different jersey colour to the previous heat. Avoid inquiring whether it's acceptable to wear the same jersey. Develop the habit to change colors without hesitation.
+- Maintain a watch and keep close awareness on time.
+- Maintain a quality wax job as this will be a benchmark for attention to other important details.
+    - Slacking on such a detail will increase the probability that other problems will go wrong.
 
 
-### Athlete Preparation
+### Equipment And Logistical Preparation
 
-Prepare a kit bag with all necessary equipment for training.
+Prepare a kit bag with all necessary equipment for effective training. Consider the following equipment
 
 - Watch
 - Learner's notebook; Wave observation notebook/cards/board
 - Water
 - Backups of board, wax, fins, fin key, leash
 - Waterproof and warm clothes for staying warm during gaps
+- Are all boards sufficiently repaired and if necessary - re-waxed?
 
-Immediate access to the simulator spreadsheet with an understanding of its layout and how to navigate it.
 
-Full understanding of everything set out in the spreadsheet and manual.
+Additional considerations
 
-Consider arriving before check-in so to be fully prepared and to provide ample opportunity for a thorough and individualized beach and surf warm-up.
+- Immediate access to the simulator spreadsheet with an understanding of its layout and how to navigate it.
+- Thorough understanding of the schedule, draw and principles of simulation training
+- Consider arriving before check-in so to be fully prepared and to provide ample opportunity for a thorough and individualized beach and surf warm-up.
+- Setup a station for personal equipment which enables ease of access throughout training.
 
-Setup a station for personal equipment which enables ease of access throughout training. For example,
+
+
+## Motivation and Organisation
 
 
 ### Purpose of Simulation
 
+#### Problem Statement
+
 The problem is that training with an intention alone works out to be insufficient training. A more optimal method of training for a particular athletic goal is to perform regularly in a situation that equivalently emulates the situation under which the goal will be achieved. Rarely will it be argued that casual training ever feels like the high pressure situation of performing in a real contest. To confront face on that which is stressful is a good way to grow into it and become resilient and adaptable under the pressure of that situation. It's an illusion to believe that training the purely technical skills of a sport will in itself provide the basis to succeed in any particular contest. It is perhaps equivalent to thinking that training to swim in a pool would perfectly prepare an athlete to swim in a stormy ocean.
 
 How common is it to find oneself surfing aimlessly and without an accurate sense to the quality of training and strategy within a short period of a heat? How difficult is it in an actual heat with tough opponents of a similar skill level? What type of thoughts and emotions actually rush through one's mind? What mistakes are made? Consider how valuable it may be to confront these questions on a weekly basis and to begin to solve them earlier rather than later.
+
+
+#### Goals of Contest Simulation
 
 The goal of the contest simulation is to create high density exposure to the reality of a contest environment so to create the basis for the necessary adaption. And to do so for all skill levels, ranging from initial club entry up to both ISA Games and WSL Series Events.
 
@@ -77,36 +92,45 @@ This also creates the environment necessary for each individual athlete to bench
 !! It's also an opportunity to practise alignment with Olympic values, through content such as the ISA code of conduct. This is a more important skill in relation to long term success.
 
 
+### Rulebook Precedence
+
+The running principles aim to emulate as specifically as possible the rulebooks of both the International Surf Association and the World Surf League.
+
+Principles from those rulebooks are assumed, unless otherwise stated within this manual. When there are conflicting principles, this manual and associated draw spreadsheet will take first precedent. Then the ISA rulebook will take precedent over the WSL rulebook.
+
+Each athlete is expected to read this manual to understand the purpose and mechanics of this type of training. This implies achieving an understanding of the draw format, the scheduling and the principles of how to train.
+
+
+
 
 ## Standard Principles
 
-### Simulation Event Protocols
+### Session Protocols
 
-"Check in at the beginning of the event
-"
-Ask all necessary questions to ensure you have an adequate understanding of the plan.
-
-Once the event starts, you are expected to be alert and on immediate standby unless otherwise communicated
-The plan may change rapidly in adaption to the dynamics of a surf break
-
-As the session unfolds, you are expected to be within close enough proximity to be informed by such changes
-There are situations where you will be given time to rest and hang out without concern. But only when specifically stated and when not in contradiction to other information
+1. Check-in at the beginning of the event
+    1. Ask all necessary questions during the check-in meeting. Ensure a sufficient understanding of the session plan. Keep asking questions if this is unclear.
+1. Once the event starts be alert throughout and on immediate standby unless otherwise communicated
+1. The plan may change rapidly in adaption to the dynamics of a surf break
+1. As the session unfolds, be within close enough proximity to be informed by rapid changes.
+1. There are situations where time will be given to rest and be without concern, but only when specifically stated and ensure such information is clear and not in contradiction to other plans.
 
 
 ### Heat Protocols
 
-Check in before each heat at beach marshal station
-Change rash vest for each heat. Provide color to marshal/judges
 
-Green board will indicate the beginning of a heat
-Yellow board will indicate that 5 minutes remain
+1. Check in before each heat at beach marshal station.
+1. Choose a different jersey color for each heat.
+1. Provide color to marshal/judges
+1. Green board will indicate the beginning of a heat
+1. Yellow board will indicate 5 minutes are remaining
+1. Unless otherwise stated, heats will be 20 minutes long by default.
+1. Similarly, there will be 5 minutes of paddle out by default.
+1. There will be a small delay between heats
+1. Stay clear of the competitors lineup during paddle out.
+1. Prone to shore immediately on heat finish.
+1. Promptly return the jersey to the beach marshal 
+1. If your heat is next, check-in and state new jersey colour
 
-Unless otherwise stated, heats will be 20 minutes long with 5 minutes of paddle out. There will be a small delay between heats
-
-Stay clear of the competitors lineup during paddle out.
-Prone to shore immediately at finish.
-Return to beach marshal ASAP and return the jersey
-If your heat is next, check-in and state your new jersey colour
 
 !! There may be consequences for breaking certain principles depending on how much disruption it causes. This will come in the form of penalties affecting point allocation.
 If you are carelessly slow in returning to shore or on returning to the beach marshal, you will likely be late for your next paddle out. The schedule will not change
@@ -128,20 +152,31 @@ There will usually be a minute or two between heats. If you have just surfed, no
 You don't need to be precise with this time keeping. Remember the goal in this regard is usually to be by the waters edge for the beginning of your paddle out.
 If possible, a timer will be displayed by the color board which can be checked by those around the judging station.
 
-Athletes are welcome to assist in spotting and judging
-If you see someone paddling call out their color
-Watch to remember the details of what they do on the wave. The judges may ask for recalls of details missed or else forgotten. This is particularly important during back to back waves and spit peaks.
+#### Judge Assistance
 
-Note the order of waves ridden in close succession.
-
-
+1. Athletes are encouraged to assist in spotting and judging
+1. If an athlete is seen paddling for a wave then call that to attention with reference to their colour.
+1. Watch to remember the details of each wave surfed. The judges may ask for recalls of details missed or else forgotten. This is particularly important during back to back waves and spit peaks.
+1. Note the order sequence of waves ridden in close succession and whether an athlete went right or left as this all helps with accurately recalling the waves to be scored.
+1. Optionally an athlete can help input the scores of a judge if the judge calls them out.
+1. Optionally an athlete can act as judge for one or more heats if they have sufficient time.
 
 
 ## Judging Principles
 
 ### Judging Criteria
 
-Major maneuvers are the backbone of increasing your scores. One single maneuver brings a score into the excellent range.
+#### The Major Maneuver
+
+1. Major maneuvers are the fundamentals of improving scores. The increasing quality of single maneuver's can bring scores into the excellent range.
+1. Transitional surfing and skillful combinations are relevant to increasing the density and control of major maneuvers on a wave. The quality of the major maneuver to which the transitional surfing occurs will be the limiting factor to the score.
+1. It's a repeated and commonly misunderstood problem to either judge for or expect judges to give high scores for almost solely the factors of flow and aesthetic.
+
+
+#### Considerations To The Athlete
+
+Considering this, the goal of the athlete is to achieve the most critical maneuver possible during the heat. And to do so on two separate waves.
+
 
 
 ### Scoring Parity
