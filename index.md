@@ -6,7 +6,7 @@ version: v4
 toc: true
 ---
 
-# PRINCIPLES OF SIMULATION
+# PRINCIPLES OF CONTEST SIMULATION TRAINING
 
 (DRAFT V4)
 
@@ -23,15 +23,20 @@ Principles from those rulebooks are assumed, unless otherwise stated within this
 
 Each athlete is expected to read this manual to understand the purpose and mechanics of this type of training. This implies achieving an understanding of the draw format, the scheduling and the principles of how to train.
 
-It's essential to be able to navigate this document so as to be able to find all relevant information, such as the 'Athletes Code of Conduct'. This is also the case for the contest simulator spreadsheet, so to be able to locate the schedule, the draw, and the scores of each heat. Ensure immediate access to the link to the spreadsheet, and ensure the google sheets app is downloaded onto smartphone.
+It's essential to be able to navigate this document so as to be able to find all relevant information. For example we may read the 'Athletes Code of Conduct' during the check-in meeting therefore it's necessary to have access to it. This is also the case for the contest simulator app, so to be able to locate the schedule, the draw, and the scores of each heat. Ensure immediate access to the link to the spreadsheet, and download the google sheets smartphone app.
 
-The following is expected of each athlete.
+The following is expected of each athlete throughout training.
 
 - Undertake each next step with speed.
 - Maintain alertness.
 - Understand the sequence of heats and their expected times.
-- Comprehend that taking on the identity of an athlete is to commit oneself to the ideal values of an athlete.
-- Return the jersey to the beach marshal bucket immediately after each heat. Collect the next jersey as quickly as is possible, choosing a different colour to the previous heat.
+- Have a comprehension that taking on the identity of an athlete is to commit oneself to the ideal values of being an athlete.
+
+Maintain recall of the following
+
+- Return jersey's to the beach marshal jersey container or stand immediately after each heat.
+- Promptly collect jersey's for the next heat, remembering to choose a different colour to the previous heat.
+- Avoid inquiring whether it's acceptable to wear the same jersey. Make it a habit to change colors without hesitation.
 
 
 ### Athlete Preparation
@@ -50,7 +55,7 @@ Full understanding of everything set out in the spreadsheet and manual.
 
 Consider arriving before check-in so to be fully prepared and to provide ample opportunity for a thorough and individualized beach and surf warm-up.
 
-Setup a personal stations with ease of access to equipment in relation to the simulator site.
+Setup a station for personal equipment which enables ease of access throughout training. For example,
 
 
 ### Purpose of Simulation
@@ -280,5 +285,11 @@ An athlete who competes is committed to the following:
 
 ### Training Principles
 
-(TODO)
+Speed is essential to ensuring success throughout the event. It allows for contingencies when problems arise. For example if it's realised that a backup board would be more suitable for the subsequent heat but time was needlessly lost during return to the contest site, it may either make the contingency infeasible or bring about a sense of rush which is not optimal for the performance in the next heat.
+
+It's common to have awkward time gaps between heats therefore think through and experiment how to pragmatically navigate this. In general, if the gap is long enough it's worth getting fully changed and dry. Heat is the core factor related to athletic performance and being damp whilst sitting idle can cause the body to start to shut down. Even if the body begins to shut down, it's significantly more effective to do so after being dry and giving the body a rest from being in a wetsuit.
+
+These factors assume it's possible to fully dry and that sufficient thermal clothing is at hand. It would also be of significant benefit to bring warm water and warm food. However, note that eating too much can be counter productive. Coffee and tea can be of benefit but they carry a high risk with regard to regulating emotion in the context of contest pressure. Caffeine interferes with heat regulation as well as one's ability to lower one's emotional energy when such is too high.
+
+...
 
