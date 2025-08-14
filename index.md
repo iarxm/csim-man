@@ -16,8 +16,7 @@ version: v4
 Olympic Motto - "Faster, Higher, Stronger; Together As One"
 
 
-
-Herein are idea's relevant to the mission of training as realistically as possible the situation of surf games and contests. The goal of such a simulation is to facilitate real world experiences so to accelerate technical and strategic development.
+Herein are principles for the mission of maximising the realness of training the surf games and contest. For lack of a better word, we will define this as simulation. The goal of such is to facilitate the actual experiences which accelerate technical and strategic development.
 
 1. TOC
 {:toc}
@@ -30,48 +29,70 @@ These principles of training are written for all levels of skill. The density of
 
 The simulator app to be used currently exists as a google spreadsheet and will be shared ahead of each games training.
 
-Athlete's are expected to:
+The following suggestions will aid as first steps towards success. Attention toward them will lead to long term rewards in The Surf Games.
+
+
+### Comprehension
+
+Ensuring 
 
 - Understand the structure of the manual to quickly find reference to elements used in training briefings such at the Olympic Values.
-- Understand the navigation of the simulator app to comprehend the status of heats, scores and schedules.
-- Ensure immediate access to the app throughout training and to have downloaded to phone the google sheets app.
+- Understand how to navigate the simulator app to comprehend the status of heats, scores and schedules.
 - Understand the sequence of heats and their expected times.
+- Comprehend what it means principally to be an athlete with an understanding that taking on the identity of such is to imply oneself towards the ideal values of an athlete.
 
-The following commitments are expected throughout the course of training:
 
-- Undertake each next step with speed and conscientiousness. Emphasis be placed on returning to the beach marshal post heat and preparing for the subsequent heat.
+### Performance
+
+Making the following attitudinal commitments will aid towards the psychological demands of training.
+
+- Undertake each next step with speed and conscientiousness. Emphasis being placed on returning to the beach marshal post heat and preparing for the subsequent heat.
 - Maintain alertness and be on immediate standby to a rapidly evolving plan.
-- Comprehend what it means principally to be an athlete with an understanding that taking on the identity of an athlete is to imply oneself towards the ideal values of an athlete.
+
+
+### Recall
 
 Maintain recall of the following as they will act as keystone habits for more important skills and outcomes:
 
 - Return jersey's immediately after each heat.  Promptly collect jersey's for the next heat.
     - Stay focused after the heat finishes and move rapidly to the next task.
     - Choosing a different jersey colour to the previous heat. Avoid inquiring whether it's acceptable to wear the same jersey. Develop the habit to change colors without hesitation.
-- Maintain a watch and keep close awareness on time.
-- Maintain board with quality waxing as this will be a benchmark for attention to other important details.
-    - Lack of care to such a detail will increase the probability that other problems will go wrong.
+- Keep close awareness on time by regularly checking 
 
+- Maintaining a watch 
 
-### Equipment And Logistical Preparation
+### Equipment
 
-Consider a kit bag with all necessary equipment for successful training. Consider the following suggestions:
+Consider preparing and maintaining a kit bag with all important equipment for successful training. Consider the following:
 
 - Watch
 - Learner's notebook; Wave observation notebook/cards/board
 - Water
-- Backups of board, wax, fins, fin key, leash
+- Backups of: Wax, fins, fin key, leash
 - Waterproof and warm clothes for staying warm during gaps
+- 2x or 3x boards
+
+
+Equipment Maintenance
+
 - Are all boards sufficiently repaired and if necessary - re-waxed?
+- Maintaining board with quality waxing. This type of habit will be a benchmark for attention to other important details.
+    - Lack of care to such a detail will be an indicator that failure is looming.
 
 
-Additional considerations:
+### Additional considerations:
 
+- Ensure immediate access to the app throughout training and to have downloaded to phone the google sheets app.
 - Immediate access to the simulator app with an understanding of its layout and how to navigate it.
 - Thorough understanding of the schedule, draw and principles of simulation training
 - Consider arriving before check-in so to be fully prepared and to provide ample opportunity for a thorough and individualized beach and surf warm-up.
 - Setup a station for personal equipment in close proximity to the site for ease of access throughout training.
 
+
+### Most Common Point Of Failure
+
+- Time management errors due to no means of precision in time keeping.
+- 
 
 
 ## Motivation and Organisation
