@@ -34,32 +34,33 @@ The following suggestions will aid as first steps towards success. Attention tow
 
 ### Comprehension
 
-Ensuring 
+The following will provide an ability for situational awareness during training:
 
-- Understand the structure of the manual to quickly find reference to elements used in training briefings such at the Olympic Values.
-- Understand how to navigate the simulator app to comprehend the status of heats, scores and schedules.
-- Understand the sequence of heats and their expected times.
-- Comprehend what it means principally to be an athlete with an understanding that taking on the identity of such is to imply oneself towards the ideal values of an athlete.
+- Understand how to navigate the simulator app to be able to locate information about heats, scores and schedules.
+- Understand how to navigate the book of simulation principles to quickly find reference to elements used in training briefings such at the Olympic Values section.
+- Thorough understanding of the draw, sequence and timing of heats.
+- Comprehend principles of simulation training.
+- Comprehend what it means to be an athlete with an understanding that taking on the identity of such is to imply oneself towards the ideal values of an athlete.
 
 
 ### Performance
 
-Making the following attitudinal commitments will aid towards the psychological demands of training.
+Making the following attitudinal commitments will aid towards the psychological demands of training:
 
-- Undertake each next step with speed and conscientiousness. Emphasis being placed on returning to the beach marshal post heat and preparing for the subsequent heat.
+- Undertake each next step with speed and conscientiousness.
+- On speed, emphasis being placed on returning to the beach marshal post heat and preparing for the subsequent heat.
 - Maintain alertness and be on immediate standby to a rapidly evolving plan.
 
 
 ### Recall
 
-Maintain recall of the following as they will act as keystone habits for more important skills and outcomes:
+The following will act as keystone habits for more entire sets of important skills and outcomes:
 
-- Return jersey's immediately after each heat.  Promptly collect jersey's for the next heat.
-    - Stay focused after the heat finishes and move rapidly to the next task.
-    - Choosing a different jersey colour to the previous heat. Avoid inquiring whether it's acceptable to wear the same jersey. Develop the habit to change colors without hesitation.
-- Keep close awareness on time by regularly checking 
+- Returning jersey's immediately after each heat.  Promptly collecting jersey's for the next heat.
+- Staying focused after the heat finishes and moving rapidly to the next task.
+- Choosing a different jersey colour to the previous heat. Avoiding the temptation to ask whether it's acceptable to wear the same jersey. Develop the habit to change colors without hesitation.
+- Keep close awareness on time by habitually checking watch.
 
-- Maintaining a watch 
 
 ### Equipment
 
@@ -78,25 +79,29 @@ Equipment Maintenance
 - Are all boards sufficiently repaired and if necessary - re-waxed?
 - Maintaining board with quality waxing. This type of habit will be a benchmark for attention to other important details.
     - Lack of care to such a detail will be an indicator that failure is looming.
+- Maintaining a watch and backup option.
+    - Consider that smart watches are easily left without charging or forgotten because they were taken off to charge.
+    - It's more reliable to have a standard quality waterproof watch in one's kit.
+        - Casio 100m resistance is minimum sufficiency for surf training.
 
 
-### Additional considerations:
+### Tactical and Logistical
 
-- Ensure immediate access to the app throughout training and to have downloaded to phone the google sheets app.
-- Immediate access to the simulator app with an understanding of its layout and how to navigate it.
-- Thorough understanding of the schedule, draw and principles of simulation training
+- Establishing immediate access to the simulator app throughout training and having google sheets downloaded to phone.
 - Consider arriving before check-in so to be fully prepared and to provide ample opportunity for a thorough and individualized beach and surf warm-up.
 - Setup a station for personal equipment in close proximity to the site for ease of access throughout training.
 
 
-### Most Common Point Of Failure
+### Most Common Points Of Failure
 
 - Time management errors due to no means of precision in time keeping.
-- 
+    - Poor quality or broken watches
+    - Insufficient preparation
+- Arriving late causing a state of rush
+- Poor understanding of heat draw leading to misapprehension of what needs to be done.
 
 
 ## Motivation and Organisation
-
 
 ### Purpose of Simulation
 
