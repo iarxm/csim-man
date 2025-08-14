@@ -4,6 +4,10 @@ aliases: []
 tags: []
 ---
 
+gpt on codes and creeds; gpt on simulation names
+https://en.wikipedia.org/wiki/Olympic_Games_ceremony#Ancient_forerunners
+https://en.wikipedia.org/wiki/Olympic_symbols#Kotinos
+https://www.army.mil/values/index.html
 
 Remove expectation and rule orientated language to suggestions and principles. Do this for briefing section
 
