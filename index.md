@@ -16,7 +16,7 @@ version: v4
 Olympic Motto - "Faster, Higher, Stronger; Together As One"
 
 
-Herein are principles for the mission of maximising the realness of training the surf games and contest. For lack of a better word, we will define this as simulation. The goal of such is to facilitate the actual experiences which accelerate technical and strategic development.
+Herein are principles for achieving the mission of maximising the degree of realness in training for contest and The Games. We will define this as simulation. The goal is to facilitate the type of experiences which accelerate technical and strategic development.
 
 1. TOC
 {:toc}
@@ -437,21 +437,21 @@ Bonus Heats will reward extra points to an athlete's overall event stack. This w
 
 ## Olympic Principles
 
-### Archimedes Virtues of Practise
+### Classical Aristotelian Virtues
 
-1.
-2.
-3.
-4.
+1. Courage
+2. Temperance
+3. Prudence
+4. Justice
 
 
-### Olympic Code of Conduct
+### Olympic Code
 
-This section is adapted from the International Surfing Association.
+This section is adapted from the International Surfing Association website. It has been slightly reworded to favour these ideas as suggestions as opposed to rules.
 
-The ISA Code of Conduct outlines the standard of behavior expected of all members of Federations that are members of the International Surfing Association (ISA), as well as all Officials employed or volunteering with the ISA.  It is a formal statement of the values and ethical standards that guide individuals in sport. It is a set of principles and norms to which sportspeople and officials can be held accountable when representing their country or officiating at any ISA event.  The Code is used as a point of reference when dealing with disciplinary procedures against members or officials.
+"The ISA Code of Conduct outlines the standard of behavior expected of all members of Federations that are members of the International Surfing Association (ISA), as well as all Officials employed or volunteering with the ISA.  It is a formal statement of the values and ethical standards that guide individuals in sport. It is a set of principles and norms to which sportspeople and officials can be held accountable when representing their country or officiating at any ISA event.  The Code is used as a point of reference when dealing with disciplinary procedures against members or officials."
 
-An athlete who competes is committed to the following:
+An athlete who competes at the ISA Surf Games is committed to the following:
 
 #### Respect
 
