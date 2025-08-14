@@ -168,30 +168,26 @@ Each athlete is expected to read this manual to understand the purpose and mecha
 1. Stay clear of the competitors lineup during paddle out.
 1. Prone to shore immediately on heat finish.
 1. Promptly return the jersey to the beach marshal 
-1. If your heat is next, check-in and state new jersey colour
-
-
-!! There may be consequences for breaking certain principles depending on how much disruption it causes. This will come in the form of penalties affecting point allocation.
-If you are carelessly slow in returning to shore or on returning to the beach marshal, you will likely be late for your next paddle out. The schedule will not change
-
+1. If surfing in the next heat, check-in and state new jersey colour
 
 ### Proximity to Judging Booth
 
-Results, scores and evolving draws can be read from the draw spreadsheet
-The scoring will be digitalized in which case you can use your phone to obtain the results and schedule
+1. Results, scores and evolving draws can be read from the draw spreadsheet.
+1. The scoring will be digitalized in which case you can use your phone to obtain the results and schedule
+1. This allows the judges to maintain focus on the heat at hand.
 
 
-!! Be particularly respectful when in close proximity to the judges
-It takes significant attention to maintain quality judging. The management of distractions is essential. Your care towards this principle will ensure your own scoring will be accurate.
+Be particularly respectful when in close proximity to the judges
 
-Before asking questions, first check if any competitors are up and riding and wait until the wave has been scored
+1. It takes significant attention to maintain quality judging. The management of distractions is essential. Your care towards this principle will ensure your own scoring will be accurate.
+1. Before asking questions, first check if any competitors are up and riding and wait until the wave has been scored
+1. Avoid asking questions about time. Instead, keep track of the green board after your heat.
+1. There will usually be a minute or two between heats. If you have just surfed, note the time when the next heat starts, or start a new stopwatch.
+1. Time keeping between heats does not need to be to the second of precision. Remember the goal between heats is usually to be on time by the waters edge for the beginning of the next paddle out.
+1. If possible, the time will be recorded in the app, and or a timer will be displayed by the color board which can be checked by those around the judging station.
 
-Avoid asking questions about time. Instead, keep track of the green board after your heat.
-There will usually be a minute or two between heats. If you have just surfed, note the time when the next heat starts, or start a new stopwatch.
-You don't need to be precise with this time keeping. Remember the goal in this regard is usually to be by the waters edge for the beginning of your paddle out.
-If possible, a timer will be displayed by the color board which can be checked by those around the judging station.
 
-#### Judge Assistance
+#### Judging Assistance
 
 1. Athletes are encouraged to assist in spotting and judging
 1. If an athlete is seen paddling for a wave then call that to attention with reference to their colour.
@@ -199,6 +195,14 @@ If possible, a timer will be displayed by the color board which can be checked b
 1. Note the order sequence of waves ridden in close succession and whether an athlete went right or left as this all helps with accurately recalling the waves to be scored.
 1. Optionally an athlete can help input the scores of a judge if the judge calls them out.
 1. Optionally an athlete can act as judge for one or more heats if they have sufficient time.
+
+### Penalties
+
+There may be consequences for breaking certain principles depending on how much disruption it causes.
+
+1. This may come in the form of penalties affecting point allocation or affecting the scores of counting waves during a related heat.
+1. Being careless and slow in returning to shore or on returning to the beach marshal will likely result in being late for the next paddle out. This will have an effect on performance.
+
 
 
 ## Scoring Principles
