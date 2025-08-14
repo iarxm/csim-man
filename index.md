@@ -4,14 +4,14 @@ aliases: []
 tags: []
 hide: footer
 layout: default
-title: Principles of Simulation for The Surf Games
+title: Principles of Simulation for Training The Surf Games
 toc: true
-version: v4
+version: v6
 ---
 
-# PRINCIPLES OF SIMULATION FOR THE GAMES
+# PRINCIPLES OF SIMULATION FOR TRAINING THE SURF GAMES
 
-(DRAFT V4 - STILL IN ROUGH EARLY DRAFT STAGE)
+(DRAFT_V6 - EARLY DRAFT)
 
 Olympic Motto - "Faster, Higher, Stronger; Together As One"
 
@@ -54,7 +54,7 @@ Making the following attitudinal commitments will aid towards the psychological 
 
 ### Recall
 
-The following will act as keystone habits for more entire sets of important skills and outcomes:
+The following will act as keystone habits for broader sets of important skills and outcomes:
 
 - Returning jersey's immediately after each heat.  Promptly collecting jersey's for the next heat.
 - Staying focused after the heat finishes and moving rapidly to the next task.
@@ -280,8 +280,8 @@ Therefore, if the lower skilled athlete performs excellently they will just beat
 This is not reason to become frustrated or undermine the status of higher scores of a less skilled athlete
 Remember that the highest skilled athletes in these events are already receiving inflated scores relative to WSL scales
 
-It's in your interest, as a higher skilled athlete, to lose during these events when performing at your normal level of performance
-It's in your interest, as a lower skilled athlete, to win during these events when performing significantly above average
+- It's in your interest, as a higher skilled athlete, to lose during these events when performing at your normal level of performance
+- It's in your interest, as a lower skilled athlete, to win during these events when performing significantly above average
 
 There will be errors made in implementing this until it's worked out more precisely
 
