@@ -1,40 +1,45 @@
 ---
-layout: default
-title: Principles of Surf Simulation Training for Contests
+id: index
+aliases: []
+tags: []
 hide: footer
-version: v4
+layout: default
+title: Principles of Simulation for The Surf Games
 toc: true
+version: v4
 ---
 
-# PRINCIPLES OF CONTEST SIMULATION TRAINING
+# PRINCIPLES OF SIMULATION FOR THE GAMES
 
 (DRAFT V4 - STILL IN ROUGH EARLY DRAFT STAGE)
+
+Herein are idea's relevant to the mission of training as realistically as possible the situation of surf games and contests. The goal of such a simulation is to facilitate real world experiences so to accelerate technical and strategic development.
 
 1. TOC
 {:toc}
 
-## Necessary Preparation
+## Preparation
 
 ### Briefing
 
-These principles of training are written for all levels of skill and experience. It may be dense with detail so to address all possible principles, therefore it's important for each athlete to pick out parts which are personally relevant.
+These principles of training are written for all levels of skill. The density of detail will address all possible needs, therefore each athlete can focus in on parts which are personally relevant.
 
-The simulator app to be used currently exists as a google spreadsheet and will be shared ahead of each contest simulation.
+The simulator app to be used currently exists as a google spreadsheet and will be shared ahead of each games training.
 
-Athlete's are expected to
+Athlete's are expected to:
 
-- Understand the structure of the manual so to quickly find reference to elements used in training such at the Olympic Values which may be read during the check-in meeting
+- Understand the structure of the manual to quickly find reference to elements used in training briefings such at the Olympic Values.
 - Understand the navigation of the simulator app to comprehend the status of heats, scores and schedules.
 - Ensure immediate access to the app throughout training and to have downloaded to phone the google sheets app.
 - Understand the sequence of heats and their expected times.
 
-The following commitments are expected throughout the course of training
+The following commitments are expected throughout the course of training:
 
-- Undertake each next step with speed and conscientiousness. Particular emphasis is to be placed on returning to the beach marshal post heat and preparing for the subsequent heat.
+- Undertake each next step with speed and conscientiousness. Emphasis be placed on returning to the beach marshal post heat and preparing for the subsequent heat.
 - Maintain alertness and be on immediate standby to a rapidly evolving plan.
-- Comprehend what it means principally to be an athlete with an understanding that taking on such an identity is to imply oneself towards the ideal values of an athlete.
+- Comprehend what it means principally to be an athlete with an understanding that taking on the identity of an athlete is to imply oneself towards the ideal values of an athlete.
 
-Maintain recall of the following as they will act as keystone habits for more important skills and outcomes.
+Maintain recall of the following as they will act as keystone habits for more important skills and outcomes:
 
 - Return jersey's immediately after each heat.  Promptly collect jersey's for the next heat.
     - Stay focused after the heat finishes and move rapidly to the next task.
@@ -46,7 +51,7 @@ Maintain recall of the following as they will act as keystone habits for more im
 
 ### Equipment And Logistical Preparation
 
-Prepare a kit bag with all necessary equipment for effective training. Consider the following equipment
+Consider a kit bag with all necessary equipment for successful training. Consider the following suggestions:
 
 - Watch
 - Learner's notebook; Wave observation notebook/cards/board
@@ -56,12 +61,12 @@ Prepare a kit bag with all necessary equipment for effective training. Consider 
 - Are all boards sufficiently repaired and if necessary - re-waxed?
 
 
-Additional considerations
+Additional considerations:
 
-- Immediate access to the simulator spreadsheet with an understanding of its layout and how to navigate it.
+- Immediate access to the simulator app with an understanding of its layout and how to navigate it.
 - Thorough understanding of the schedule, draw and principles of simulation training
 - Consider arriving before check-in so to be fully prepared and to provide ample opportunity for a thorough and individualized beach and surf warm-up.
-- Setup a station for personal equipment which enables ease of access throughout training.
+- Setup a station for personal equipment in close proximity to the site for ease of access throughout training.
 
 
 
@@ -72,9 +77,13 @@ Additional considerations
 
 #### Problem Statement
 
-The problem is that training with an intention alone works out to be insufficient training. A more optimal method of training for a particular athletic goal is to perform regularly in a situation that equivalently emulates the situation under which the goal will be achieved. Rarely will it be argued that casual training ever feels like the high pressure situation of performing in a real contest. To confront face on that which is stressful is a good way to grow into it and become resilient and adaptable under the pressure of that situation. It's an illusion to believe that training the purely technical skills of a sport will in itself provide the basis to succeed in any particular contest. It is perhaps equivalent to thinking that training to swim in a pool would perfectly prepare an athlete to swim in a stormy ocean.
+Training with a vague intention alone to improve performance in real heats works out to be insufficient training. Rarely will a strong argument be made that casual training feels like the high pressure situation of performing in a real contest.
 
-How common is it to find oneself surfing aimlessly and without an accurate sense to the quality of training and strategy within a short period of a heat? How difficult is it in an actual heat with tough opponents of a similar skill level? What type of thoughts and emotions actually rush through one's mind? What mistakes are made? Consider how valuable it may be to confront these questions on a weekly basis and to begin to solve them earlier rather than later.
+It's also an illusion to believe that training the purely technical skills of a discipline will in itself provide the basis to succeed in contest. It is perhaps equivalent to thinking that training to swim in a pool would perfectly prepare an athlete to swim in a stormy ocean. Or learning how to technically perform martial art skills without sparring will prepare one for performing in the ring.
+
+Moreover, recall how common it is to find oneself surfing aimlessly and without an accurate sense to the quality of training and strategy. Compare this to having to perform a specific goal within a short period of a 20 minute heat. Recall how difficult is it in a real heat with opponents of a similar skill level. Remember the type of thoughts and emotions which actually appear in one's mind. Consider how many and what type of mistakes are made, and how valuable it would be to confront these questions on a weekly basis to begin to skillfully solve those mistakes earlier rather than later.
+
+A more optimal method, which is true for athletic goals in general, is to perform regularly in a situation that equivalently emulates the situation under which the goal will be achieved. This is to confront face on that which is stressful. This is a means to grow into that pressure and become resilient through familiarity. Learn to be psychologically and strategically flexible and become adaptable under the pressure of that situation.
 
 
 #### Goals of Contest Simulation
@@ -398,6 +407,14 @@ Bonus Heats will reward extra points to an athlete's overall event stack. This w
 
 ## Olympic Principles
 
+### Archimedes Virtues of Practise
+
+1.
+2.
+3.
+4.
+
+
 ### Olympic Code of Conduct
 
 This section is adapted from the International Surfing Association.
@@ -406,33 +423,49 @@ The ISA Code of Conduct outlines the standard of behavior expected of all member
 
 An athlete who competes is committed to the following:
 
+#### Respect
+
 - Respect the rules and play in the spirit of the game.
-- Display high standards of behavior that promote a positive image for surfing.
 - Respect opponents.
 - Respect other athletes and officials’ cultures and beliefs.
 - Respect the officials and their decisions.
+- Respect the facilities and equipment.
+
+#### Compete with Integrity
+
 - Be gracious in victory and defeat.
-- Give teammates positive input and feedback.
 - Compete fairly.
+
+#### Act with Integrity
+
+- Display high standards of behavior that promote a positive image for surfing.
 - Refrain from the use of profane, insulting, harassing or otherwise offensive language or behaviour on or off the field of play.
 - Strive to maintain a sense of self-control and dignity at all times.
-- Thank officials and opposing teams.
 - Maintain a sense of integrity.
-- Respect the facilities and equipment.
+
+#### Team Orientated
+
 - Do one's best to be a true team player.
+- Give teammates positive input and feedback.
 - Help others to resist corrupting pressures.
 - Denounce those who attempt to discredit the sport.
 - Honor those who defend the sport’s good reputation.
 - Reject corruption, drug abuse, racism & violence.
+- Thank officials and opposing teams.
 
+#### Drug Free Sport
 
 - Never advocate or condone the abuse of drugs or other banned substances or methods.
 - Abstain from the use of tobacco products and alcoholic beverages when representing my country or at an ISA event.
 - Never provide under age participants with alcohol.
 - Participate in all team testing and satisfy all team program-testing objectives.
 
+#### Ambassadorship
+
 - Not block the ISA logo during video or still camera photography activity.
 - Provide interviews to official and on-site event media as requested regardless of heat result.
+
+#### Safety
 
 - Communicate and co-operate with registered medical practitioners/testing centers in the diagnoses, treatment and management of medical problems and respect the concerns these medical people have when they are considering my future health and well being and when they are making decisions regarding my ability to continue to play or train.
 
