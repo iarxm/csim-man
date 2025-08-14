@@ -201,22 +201,35 @@ If possible, a timer will be displayed by the color board which can be checked b
 1. Optionally an athlete can act as judge for one or more heats if they have sufficient time.
 
 
-## Judging Principles
+## Scoring Principles
 
 ### Judging Criteria
 
 #### The Major Maneuver
 
-1. Major maneuvers are the fundamentals of improving scores. The increasing quality of single maneuver's can bring scores into the excellent range.
-1. Transitional surfing and skillful combinations are relevant to increasing the density and control of major maneuvers on a wave. The quality of the major maneuver to which the transitional surfing occurs will be the limiting factor to the score.
-1. It's a repeated and commonly misunderstood problem to either judge for or expect judges to give high scores for almost solely the factors of flow and aesthetic.
+1. A single major maneuver constitutes the bulk of a single score. The increasing quality of single maneuver's can bring scores into the excellent range.
+1. Transitional surfing and skillful combinations are relevant to increasing the density and control of major maneuvers on a wave.
+1. The quality of the major maneuver to which the transitional surfing occurs will be the limiting factor to the score.
+
+#### Common Judging or Audience Problems
+
+1. A common and repeated misunderstanding is to either judge for or expect judges to give high scores for the factors of flow and aesthetic alone. These factors only apply once a major maneuver has been established.
+1. Another common issue is for scoring to pool in the range of 2 to 6 without clear distinction made to surfing which is factually better or worse.
+    1. Often this is the cause of poor judging quality.
+    1. From the perspective of an athlete, as long as two good waves are caught this problem will be circumvented.
+    1. A more worthy intent is to win by a margin and avoid making a fuss about situations where the loss was marginal to the point of being subjectively variant.
 
 
-#### Considerations To The Athlete
+#### Framing the Goal Posts
 
-Considering this, the focus of the athlete is to find the best opportunity to complete the most critical maneuver possible for them during the heat. And to do so on two separate waves. The attention is therefore to search for the steepest and most energy dense section, and to skillfully place oneself within a high and tight trajectory across that section.
+The focus of the athlete is to find the best opportunity to complete the most critical maneuver possible relative to their skill. And to do so on two separate waves within the time constraint of the heat.
 
-In another sense this is a means of being in the right place at the right time with the right body posture.
+The mind therefore can be set to search for the steepest and most energy dense section, and to skillfully place oneself within a high and tight trajectory across that section.
+
+To describe this a second way, it's being in the right place at the right time with the right speed and the right posture and orientation of both body and board.
+
+
+#### Analyzing the Path
 
 Once that is the near term object of attention, the athlete can work in reverse order to get to that point. The 12 Skills of an excellent score can be used for problem solving this during planning and execution.
 
@@ -228,9 +241,22 @@ Once that is the near term object of attention, the athlete can work in reverse 
 6. Wave Entry
 7. Halo turn - first major maneuver
 
-The fist half off the skills which all precede standing on the board is the fundamental path through the first 8 points of the 10 point wave judging scale. These are the skills which go into being at the right place at the right time.
+The skills have only been listed up until 7 to illustrate that the fist half off the skills, which all precede standing on the board, represents the bulk of the path through the first 8 points of the 10 point wave judging scale.
 
-Consider these ideas with utmost importance.
+These are the skills which go into being at the right place at the right time on the wave of consequence.
+
+A poor performance or a bad surf can often be reduced within a session to one of these skills.
+
+
+#### Types of Directed Attention
+
+Consider these ideas with utmost attention.
+
+Note that an analytic and obsessive form of thinking about such ideas during a heat performances will likely cause significant hindrance by creating hesitation and cognitive tunnel vision.
+
+It can however, be beneficial to lightly focus the mind in the direction of each point. Enough so to trigger the already developed best standard of each skill domain.
+
+The skills are laid out in a sequence, and they can be considered as a type of sprint between markers. Attention can be placed precisely enough on the next immediate one to sufficiently achieve it.
 
 
 ### Scoring Parity
