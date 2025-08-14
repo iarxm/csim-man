@@ -1,3 +1,11 @@
+---
+id: org
+aliases: []
+tags: []
+---
+
+
+Remove expectation and rule orientated language to suggestions and principles. Do this for briefing section
 
 TODO - ORGANISATION
 
