@@ -13,6 +13,10 @@ version: v4
 
 (DRAFT V4 - STILL IN ROUGH EARLY DRAFT STAGE)
 
+Olympic Motto - "Faster, Higher, Stronger; Together As One"
+
+
+
 Herein are idea's relevant to the mission of training as realistically as possible the situation of surf games and contests. The goal of such a simulation is to facilitate real world experiences so to accelerate technical and strategic development.
 
 1. TOC
