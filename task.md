@@ -4,6 +4,10 @@ aliases: []
 tags: []
 ---
 
+Make heat titles in 'Live' dynamic, to reflect dynamic setting of heat formats, without req of re-running script during contest
+
+Separate technical dev of app from principles book
+
 gpt on codes and creeds; gpt on simulation names
 https://en.wikipedia.org/wiki/Olympic_Games_ceremony#Ancient_forerunners
 https://en.wikipedia.org/wiki/Olympic_symbols#Kotinos
