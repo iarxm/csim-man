@@ -13,7 +13,7 @@ version: v6
 
 Construct Motto - "Gravity is but a notion for consideration"
 
-Herein lie principles for creating degrees of realness in training, 
+Herein are principles for creating degrees of realness in training, 
     in advance of both The Games and The Real.
 We will define this as constructing.
 The goal is to facilitate the type of experiences which accelerate technical and strategic development.
@@ -31,7 +31,7 @@ The density of detail will address all possible needs,
 therefore each athlete can address elements which are a priority to them.
 
 The construct scoring app to be used currently exists as a public spreadsheet 
-    and will be shared ahead of each games constructing.
+    and will be shared ahead of each games construct.
 It will provide both live scoring and draw updates.
 
 The following suggestions will aid as first steps towards success.
@@ -109,7 +109,7 @@ Equipment Maintenance
 
 ## Motivation and Organisation
 
-### Purpose of Surf Constructing
+### Purpose of Surf Construct
 
 #### Problem Statement
 
@@ -122,7 +122,7 @@ Moreover, recall how common it is to find oneself surfing aimlessly and without 
 A more optimal method, which is true for athletic goals in general, is to perform regularly in a situation that equivalently emulates the situation under which the goal will be achieved. This is to confront face on that which is stressful. This is a means to grow into that pressure and become resilient through familiarity. Learn to be psychologically and strategically flexible and become adaptable under the pressure of that situation.
 
 
-#### Goals of Surf Constructing
+#### Goals of Surf Construct
 
 The goal of constructing is to create high density exposure to the reality of a Games environment so to create the basis for the necessary adaption. And to do so for all skill levels, ranging from initial club entry up to both ISA Games and WSL Series Events.
 
