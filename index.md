@@ -11,9 +11,9 @@ version: v6
 
 (DRAFT_V6 - EARLY DRAFT)
 
-Construct Motto - "Fast, High, Strong; Become"
+Construct Motto - "Gravity is but a rule to be broken"
 
-Herein are principles for maximising the degree of realness in training for The Games and The Real. We will define this as constructing. The goal is to facilitate the type of experiences which accelerate technical and strategic development.
+Herein lie principles for creating degrees of realness in training, in advance of both The Games and The Real. We will define this as constructing. The goal is to facilitate the type of experiences which accelerate technical and strategic development.
 
 1. TOC
 {:toc}
@@ -22,21 +22,23 @@ Herein are principles for maximising the degree of realness in training for The 
 
 ### Briefing
 
-These principles of training are written for all levels of skill
+These principles of training are written for all levels of skill.
 The density of detail will address all possible needs, 
 therefore each athlete can address elements which are a priority to them.
 
-The simulator app to be used currently exists as a google spreadsheet and will be shared ahead of each games training.
+The construct scoring and draw app to be used currently exists as a google spreadsheet 
+    and will be shared ahead of each games constructing.
 
-The following suggestions will aid as first steps towards success. Attention toward them will lead to long term rewards in The Surf Games.
+The following suggestions will aid as first steps towards success.
+Consistent attention toward them will lead to results within the construct, and as such, in long term rewards at The Surf Games.
 
 
 ### Comprehension
 
 The following will provide an ability for situational awareness during training:
 
-- Understand how to navigate the simulator app to be able to locate information about heats, scores and schedules.
-- Understand how to navigate the book of simulation principles to quickly find reference to elements used in training briefings such at the Olympic Values section.
+- Understand how to navigate The Construct scoring app to be able to locate information about heats, scores and schedules.
+- Understand how to navigate the book of construct principles to quickly find reference to elements used in training briefings such at the The Games Values section.
 - Thorough understanding of the draw, sequence and timing of heats.
 - Comprehend principles of simulation training.
 - Comprehend what it means to be an athlete with an understanding that taking on the identity of such is to imply oneself towards the ideal values of an athlete.
