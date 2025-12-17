@@ -26,8 +26,9 @@ These principles of training are written for all levels of skill.
 The density of detail will address all possible needs, 
 therefore each athlete can address elements which are a priority to them.
 
-The construct scoring and draw app to be used currently exists as a google spreadsheet 
+The construct scoring app to be used currently exists as a public spreadsheet 
     and will be shared ahead of each games constructing.
+It will provide both live scoring and draw updates.
 
 The following suggestions will aid as first steps towards success.
 Consistent attention toward them will lead to results within the construct, and as such, in long term rewards at The Surf Games.
