@@ -20,7 +20,7 @@ We will define this as constructing.
 The goal is to facilitate experiences which accelerate technical and strategic surf development.
 Such experiences may come in the form of an inspiration towards questioning,
 of what was previously thought of as necessary limitations.
-Or as Plato may argue, the realisation of falsehood-ignorance
+Or as Plato might argue, the realisation of falsehood-ignorance
 
 > "This would be most correctly called true falsehood-ignorance in the soul of someone who has been told a falsehood. Falsehood in words is a kind of imitation of this affection in the soul, an image of it that comes into being after it and is not a pure falsehood."
         Plato, The Republic
