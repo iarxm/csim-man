@@ -6,10 +6,10 @@ hide: footer
 layout: default
 title: Principles of The Surf Games Construct
 toc: true
-version: v6
+version: v7
 ---
 
-(DRAFT_V6 - EARLY DRAFT)
+(DRAFT V7 - EARLY MANUSCRIPT; 50% COMPLETION)
 
 Construct Motto - "Gravity is but a notion for consideration"
 
