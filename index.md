@@ -17,10 +17,12 @@ Herein are principles for creating degrees of realness in training,
     in advance of both The Games and The Real.
 We will define this as constructing.
 The goal is to facilitate the type of experiences which accelerate technical and strategic development.
-Such experiences may include an inspiration towards questioning,
-    of what was previously thought of as a necessary limitation.
+Such experiences may come in the form of an inspiration towards questioning.
+A questioning of what was previously thought of as a necessary limitation.
+Or as Plato might have described, the realisation of falsehood-ignorance
 
-"This would be most correctly called true falsehood-ignorance in the soul of someone who has been told a falsehood. Falsehood in words is a kind of imitation of this affection in the soul, an image of it that comes into being after it and is not a pure falsehood."
+> "This would be most correctly called true falsehood-ignorance in the soul of someone who has been told a falsehood. Falsehood in words is a kind of imitation of this affection in the soul, an image of it that comes into being after it and is not a pure falsehood."
+- Plato, The Republic
 
 1. TOC
 {:toc}
