@@ -13,7 +13,11 @@ version: v6
 
 Construct Motto - "Gravity is but a notion for consideration"
 
-Herein lie principles for creating degrees of realness in training, in advance of both The Games and The Real. We will define this as constructing. The goal is to facilitate the type of experiences which accelerate technical and strategic development.
+Herein lie principles for creating degrees of realness in training, 
+    in advance of both The Games and The Real.
+We will define this as constructing.
+The goal is to facilitate the type of experiences which accelerate technical and strategic development.
+Such experiences could be a mere questioning of what was previously thought of as a necessary limitation.
 
 1. TOC
 {:toc}
