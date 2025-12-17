@@ -4,12 +4,10 @@ aliases: []
 tags: []
 hide: footer
 layout: default
-title: Principles of Construct Training for The Surf Games
+title: Principles of The Surf Construct
 toc: true
 version: v6
 ---
-
-# PRINCIPLES OF THE SURF CONSTRUCT
 
 (DRAFT_V6 - EARLY DRAFT)
 
