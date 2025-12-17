@@ -4,7 +4,7 @@ aliases: []
 tags: []
 hide: footer
 layout: default
-title: Principles of The Surf Construct
+title: Principles of The Surf Games Construct
 toc: true
 version: v6
 ---
