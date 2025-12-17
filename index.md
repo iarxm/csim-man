@@ -45,7 +45,7 @@ The following will provide an ability for situational awareness during training:
 - Understand how to navigate The Construct scoring app to be able to locate information about heats, scores and schedules.
 - Understand how to navigate the book of construct principles to quickly find reference to elements used in training briefings such at the The Games Values section.
 - Thorough understanding of the draw, sequence and timing of heats.
-- Comprehend principles of simulation training.
+- Comprehend principles of The Surf Construct.
 - Comprehend what it means to be an athlete with an understanding that taking on the identity of such is to imply oneself towards the ideal values of an athlete.
 
 
@@ -93,7 +93,7 @@ Equipment Maintenance
 
 ### Tactical and Logistical
 
-- Establishing immediate access to the simulator app throughout training and having google sheets downloaded to phone.
+- Establishing immediate access to the Construct scoring app throughout training and having google sheets downloaded to phone.
 - Consider arriving before check-in so to be fully prepared and to provide ample opportunity for a thorough and individualized beach and surf warm-up.
 - Setup a station for personal equipment in close proximity to the site for ease of access throughout training.
 
@@ -109,30 +109,30 @@ Equipment Maintenance
 
 ## Motivation and Organisation
 
-### Purpose of Simulation
+### Purpose of Surf Constructing
 
 #### Problem Statement
 
-Training with a vague intention alone to improve performance in real heats works out to be insufficient training. Rarely will a strong argument be made that casual training feels like the high pressure situation of performing in a real contest.
+Training with a vague intention alone to improve performance in real heats works out to be insufficient training. Rarely will a strong argument be made that casual training feels like the high pressure situation of performing in a real game.
 
-It's also an illusion to believe that training the purely technical skills of a discipline will in itself provide the basis to succeed in contest. It is perhaps equivalent to thinking that training to swim in a pool would perfectly prepare an athlete to swim in a stormy ocean. Or learning how to technically perform martial art skills without sparring will prepare one for performing in the ring.
+It's also an illusion to believe that training the purely technical skills of a discipline will in itself provide the basis to succeed in The Games. It is perhaps equivalent to thinking that training to swim in a pool would perfectly prepare an athlete to swim in a stormy ocean. Or learning how to technically perform martial art skills without sparring will prepare one for performing in the ring.
 
 Moreover, recall how common it is to find oneself surfing aimlessly and without an accurate sense to the quality of training and strategy. Compare this to having to perform a specific goal within a short period of a 20 minute heat. Recall how difficult is it in a real heat with opponents of a similar skill level. Remember the type of thoughts and emotions which actually appear in one's mind. Consider how many and what type of mistakes are made, and how valuable it would be to confront these questions on a weekly basis to begin to skillfully solve those mistakes earlier rather than later.
 
 A more optimal method, which is true for athletic goals in general, is to perform regularly in a situation that equivalently emulates the situation under which the goal will be achieved. This is to confront face on that which is stressful. This is a means to grow into that pressure and become resilient through familiarity. Learn to be psychologically and strategically flexible and become adaptable under the pressure of that situation.
 
 
-#### Goals of Contest Simulation
+#### Goals of Surf Constructing
 
-The goal of the contest simulation is to create high density exposure to the reality of a contest environment so to create the basis for the necessary adaption. And to do so for all skill levels, ranging from initial club entry up to both ISA Games and WSL Series Events.
+The goal of constructing is to create high density exposure to the reality of a Games environment so to create the basis for the necessary adaption. And to do so for all skill levels, ranging from initial club entry up to both ISA Games and WSL Series Events.
 
 This also creates the environment necessary for each individual athlete to benchmark their actual vs imagined progression, and to train the specific skills they lack.
 
-!! Note - even though this is a means of learning to find ease, solve problems and perform under contest pressure, it's not a place to express one's desire to perform so to gain status and feel elated about positive performances. If that is your intention then you are in the wrong place. The intention here is to develop a general attitude of level headedness, joyful effort and graciousness, both in light of wins or losses. Again, it's significant amounts of experience that lends to this outcome.
+!! Note - even though this is a means of learning to find ease, solve problems and perform under Real Games pressure, it's not a place to express one's desire to perform so to gain status and feel elated about positive performances. If that is your intention then you are in the wrong place. The intention here is to develop a general attitude of level headedness, joyful effort and graciousness, both in light of wins or losses. Again, it's significant amounts of experience that lends to this outcome.
 
-!! For athletes of less experience and skill, it's suggested to generate the motivation to incrementally improve scores by half decimal places over a longer period of time. And to not predominantly focus on the competitive aspect of the training. Heats can be used as a means to train a technical skill under pressure. Similarly for the highest skilled athletes, the mere attendance in a contest environment over dense regular intervals can unconsciously create the desired adaption.
+!! For athletes of less experience and skill, it's suggested to generate the motivation to incrementally improve scores by half decimal places over a longer period of time. And to not predominantly focus on the hierarchical results aspect of the training. Heats can be used as a means to train a technical skill under pressure. Similarly for the highest skilled athletes, the mere attendance in a Games environment over dense regular intervals can unconsciously create the desired adaption.
 
-!! And simultaneously to become familiar with the stress and consequence of competition, and to develop the skills to find a series of quality waves within a constraint of time and pressure.
+!! And simultaneously to become familiar with the stress and consequence of Games, and to develop the skills to find a series of quality waves within a constraint of time and pressure.
 
 !! It's also an opportunity to practise alignment with Olympic values, through content such as the ISA code of conduct. This is a more important skill in relation to long term success.
 
@@ -171,7 +171,7 @@ Each athlete is expected to read this manual to understand the purpose and mecha
 1. Unless otherwise stated, heats will be 20 minutes long by default.
 1. Similarly, there will be 5 minutes of paddle out by default.
 1. There will be a small delay between heats
-1. Stay clear of the competitors lineup during paddle out.
+1. Stay clear of the podium lineup during paddle out.
 1. Prone to shore immediately on heat finish.
 1. Promptly return the jersey to the beach marshal 
 1. If surfing in the next heat, check-in and state new jersey colour
@@ -186,7 +186,7 @@ Each athlete is expected to read this manual to understand the purpose and mecha
 Be particularly respectful when in close proximity to the judges
 
 1. It takes significant attention to maintain quality judging. The management of distractions is essential. Your care towards this principle will ensure your own scoring will be accurate.
-1. Before asking questions, first check if any competitors are up and riding and wait until the wave has been scored
+1. Before asking questions, first check if any athletes are up and riding and wait until the wave has been scored
 1. Avoid asking questions about time. Instead, keep track of the green board after your heat.
 1. There will usually be a minute or two between heats. If you have just surfed, note the time when the next heat starts, or start a new stopwatch.
 1. Time keeping between heats does not need to be to the second of precision. Remember the goal between heats is usually to be on time by the waters edge for the beginning of the next paddle out.
@@ -277,7 +277,7 @@ Depending on the event, a scoring parity will be applied in a degree which corre
 In the second division, the higher seeded athletes will be disadvantaged through higher parities so to be at an overall disadvantage
 
 
-In division one, it will be scaled to make it feel as though higher skilled athletes are competing against athletes of equivalent skill
+In division one, it will be scaled to make it feel as though higher skilled athletes are constructing against athletes of equivalent skill
 The higher skilled athletes will still hold the advantage but only by a small margin
 The best possible surfing of the least skilled surfer, relative to their most common performance norm, would scale to about 6 to 7 points
 This itself would be relative to a scale where the higher skilled surfer can normally score about 5 to 6 points.
@@ -296,7 +296,7 @@ There will be errors made in implementing this until it's worked out more precis
 
 Protesting is encouraged where there is a perceived error of consequence. In some cases, a major error can be reversed if the reversal is practical but in general the result is final.
 
-In the case of a protest, the schedule may be suspended to resolve the topic before proceeding with subsequent heats. If a complicated and attention demanding protest is raised during an active heat with in simulation of 1 judge, then the protest will be postponed until the active heat is finished and attention can be redirected towards addressing it.
+In the case of a protest, the schedule may be suspended to resolve the topic before proceeding with subsequent heats. If a complicated and attention demanding protest is raised during an active heat within a constructing of 1 judge, then the protest will be postponed until the active heat is finished and attention can be redirected towards addressing it.
 
 Considering this is the general process it's therefore important to raise the protest as quickly as possible so if necessary the judge can alert the athletes who may be about to paddle out in the next heat.
 
@@ -306,25 +306,25 @@ Protesting achieves the following
 
 - A. Improves judging and event management by facilitating the realisation of errors.
 - B. Improves ability to have difficult conversations with judges and administrators over errors made. Improves capacities in protesting results at real events.
-- C. Improves understanding of the judging criteria and contest rules through critical debate.
+- C. Improves understanding of the judging criteria and also The Games rules, through critical debate.
 
 
 Mistakes are expected in judging and organisation. Any system administered by humans will be prone to human error. A more reliable way to establish trust in a organisation is to be honest about that nature and to encourage open dialogue towards rapid improvement. Note that this process of creating critical thinking and open dialogue is even more prone to error than the subject in question. Mistakes will be made in protest and in response to protest.
 
 Develop understanding and patience. If it feels like a judgement or protest was unfairly dealt with, continue to raise the top constructively with persistence.
 
-Consider this as part of the contest simulation. As part of the desired learning outcomes learn to protest as constructively and critically as possible. Stay calm and persist under pressure. Learn to facilitate a critical conversation when the point of contact is not reciprocating a willingness towards critical conversation. Learn to be gracious when proven wrong or right and move forward to the next task without hesitation. Achieve all of this without any negative psychological consequences. Develop resilience.
+Consider this as part of The Construct. As part of the desired learning outcomes learn to protest as constructively and critically as possible. Stay calm and persist under pressure. Learn to facilitate a critical conversation when the point of contact is not reciprocating a willingness towards critical conversation. Learn to be gracious when proven wrong or right and move forward to the next task without hesitation. Achieve all of this without any negative psychological consequences. Develop resilience.
 
 
-## Simulation Formats
+## Construct Formats
 
-Each simulation will generally be tied into a ranking established across a simulation series. This will be implemented via a point system with the WSL system taking first precedence in the modelling.
+Each construct will generally be tied into a ranking established across a construct series. This will be implemented via a point system with the WSL system taking first precedence in the modelling.
 
-A goal of a simulation draw within an event is to maximize the heats surfed with all the core goals of simulation in mind. This implies cycles of tournaments within the training session, with divisional finals and bonus heats.
+A goal of a construct draw within an event is to maximize the heats surfed with all the core goals of constructing in mind. This implies cycles of tournaments within the training session, with divisional finals and bonus heats.
 
 The draw will be split into tournament cycles of different or equivalent formats depending on time available and athletes entered. 'Tournament 2' will be a second cycle with additional points awarded, and so on.
 
-The logic is to establish a route of consequence which maintains a sense of reality to that of a real contest. This provides continuous motivation and focus. Every heat surfed moves an athlete up or down the event ranking.
+The logic is to establish a route of consequence which maintains a sense of reality to that of The Games. This provides continuous motivation and focus. Every heat surfed moves an athlete up or down the event ranking.
 
 This provides the motivation to rapidly review and learn from each heat. One poor performance will only move an athlete down slightly, and the next heat will either provide the opportunity to completely recover from that loss or to finish as high as possible relative to their evolving event seed.
 
@@ -345,7 +345,7 @@ The overall points allocated per the event will be normalized to 10,000 or less 
 #### Bonus Double Elim w. Divs
 
 1. Repechage system with multiple finals to establish all specific placings after those in the main round final. And with Bonus heats to both generate motivation to earn more points and catch up with main round finalists, and to equalize heat count opportunities.
-1. The higher level seeds can choose to bypass bonus heats so to both simulate wait times found in real contests and to prepare for their main round final. They will however be forfeiting their opportunity to extend their overall point lead.
+1. The higher level seeds can choose to bypass bonus heats so to both simulate wait times found in real games and to prepare for their main round final. They will however be forfeiting their opportunity to extend their overall point lead.
 
 
 #### Best of Three
@@ -407,14 +407,14 @@ Two surfer's decide their own format. The winner increases their ELO score and v
 Claim the wave you decide to be scored on. Race in and tag your team mate. Repeat.
 
 
-#### Athlete Simulation Bots
+#### Athlete Construct Bots
 
-Future implementation - athlete engine's from WSL profiles which predict the performance and scores of such an athlete in relation to available set waves and their probabilities of turning a small wave into a large score. Bot simulation as if the athlete is surfing the heat remotely.
+Future implementation - athlete engine's from WSL profiles which predict the performance and scores of such an athlete in relation to available set waves and their probabilities of turning a small wave into a large score. Bot constructing as if the athlete is surfing the heat remotely.
 
 
 ### Heat Title Notation
 
-Examples of shorthand notations that may be found in the simulator app.
+Examples of shorthand notations that may be found in the constructing score app.
 
 | Notation | Expanded Titles                    | Notes                                                                                    |
 |----------|------------------------------------|------------------------------------------------------------------------------------------|
@@ -454,7 +454,7 @@ $Event_Points = $Total_Of_Athlete * ( 10,000 / ( $Total_Of_Leader ) )
 | 9     | 1,800  |
 | 10    | 1,330  |
 
-Depending on the number of competitors per tournament cycle, and the format of the cycle, FINAL-2 placing will determine overall placings below those who have progressed to the main round FINAL-1
+Depending on the number of constructors per tournament cycle, and the format of the cycle, FINAL-2 placing will determine overall placings below those who have progressed to the main round FINAL-1
 
 
 #### Points Per Bonus Heats
@@ -463,8 +463,8 @@ Bonus Heats will reward extra points to an athlete's overall event stack. This w
 
 1. If an eliminated surfer places higher than the highest performing surfer, they may earn the equivalent of an additional 2000 points.
 1. If they perform better than the highest placing athlete in the division 2 final, they may receive additional points to equalize their overall placing with that athlete in that cycle on the points leader board.
-1. A competitor who places 2nd in FINAL2 but who places higher than 1st of FINAL2 in BONUS1 can equalize their points with that competitor in that cycle
-1. A competitor who places 1st in FINAL2 but who places higher than an athlete from FINAL1 in BONUS1 can equalize their points with last place of FINAL1
+1. A constructor who places 2nd in FINAL2 but who places higher than 1st of FINAL2 in BONUS1 can equalize their points with that constructor in that cycle
+1. A constructor who places 1st in FINAL2 but who places higher than an athlete from FINAL1 in BONUS1 can equalize their points with last place of FINAL1
 1. The general rule is that a skillful result within a BONUS heat presents the opportunity to equalize with an athlete who finishes 1 place ahead in the tournament cycle.
 1. Fourth place would receive equal points to 3rd; 5th to 4th and so on.
 
@@ -481,13 +481,13 @@ Bonus Heats will reward extra points to an athlete's overall event stack. This w
 4. Justice
 
 
-### Olympic Code
+### The Games Code
 
 This section is adapted from the International Surfing Association website. It has been slightly reworded to favour these ideas as suggestions as opposed to rules.
 
 "The ISA Code of Conduct outlines the standard of behavior expected of all members of Federations that are members of the International Surfing Association (ISA), as well as all Officials employed or volunteering with the ISA.  It is a formal statement of the values and ethical standards that guide individuals in sport. It is a set of principles and norms to which sportspeople and officials can be held accountable when representing their country or officiating at any ISA event.  The Code is used as a point of reference when dealing with disciplinary procedures against members or officials."
 
-An athlete who competes at the ISA Surf Games is committed to the following:
+An athlete who participates at the ISA Surf Games is committed to the following:
 
 #### Respect
 
@@ -497,10 +497,10 @@ An athlete who competes at the ISA Surf Games is committed to the following:
 - Respect the officials and their decisions.
 - Respect the facilities and equipment.
 
-#### Compete with Integrity
+#### Construct with Integrity
 
 - Be gracious in victory and defeat.
-- Compete fairly.
+- Construct fairly.
 
 #### Act with Integrity
 
@@ -540,14 +540,14 @@ An athlete who competes at the ISA Surf Games is committed to the following:
 
 #### Focus and Attention
 
-Speed and focus is essential to ensuring success throughout the event. It allows for contingencies when problems arise. For example if it's realised that a backup board would be more suitable for the subsequent heat but time was needlessly lost during return to the contest site, it may either make the contingency infeasible or bring about a sense of rush which is not optimal for the performance in the next heat.
+Speed and focus is essential to ensuring success throughout the event. It allows for contingencies when problems arise. For example if it's realised that a backup board would be more suitable for the subsequent heat but time was needlessly lost during return to the games site, it may either make the contingency infeasible or bring about a sense of rush which is not optimal for the performance in the next heat.
 
 Consider what you need to prepare for your next heat before engaging in anything unrelated to the performance of that heat.
 
 
 #### Temperature Control
 
-It's common in contests to experience non optimal gaps of time between heats, therefore think through such situations and experiment with how to pragmatically navigate these possibilities. In general, if the gap is just long enough, it can be of better value to be fully unsuited and dry. Temperature and circulation are core factors relating to athletic performance, and being damp whilst waiting idle can cause the body to start to shut down. In the case of exhaustion and physical shutdown, it's significantly more effective to override this state from a short period of being dry and unsuited. Even a wetsuit which has dried whilst being worn still causes stress, and interfere with circulation.
+It's common in Games to experience non optimal gaps of time between heats, therefore think through such situations and experiment with how to pragmatically navigate these possibilities. In general, if the gap is just long enough, it can be of better value to be fully unsuited and dry. Temperature and circulation are core factors relating to athletic performance, and being damp whilst waiting idle can cause the body to start to shut down. In the case of exhaustion and physical shutdown, it's significantly more effective to override this state from a short period of being dry and unsuited. Even a wetsuit which has dried whilst being worn still causes stress, and interfere with circulation.
 
 These considerations assume it's feasible to fully dry and that sufficient thermal clothing is at hand. Consider options in the case of heavy rain and no access to either shelter or water proof clothing. It may also be of significant benefit to bring warm water and warm food to augment temperature regulation. However, note that eating too much can be equally problematic.
 
@@ -556,10 +556,10 @@ These considerations assume it's feasible to fully dry and that sufficient therm
 
 Be cautious with coffee and tea. They can be of benefit in other contexts, but with regards to surfing there is a very high risk they will interference with control of emotion, temperature and circulation.
 
-In the context of contest pressure it's most desirable to be adaptable through the ability to increase of decrease one's degree of focus and energy through the mind alone. Second to this, control can be sought through exercise and breathing. Third priority to this is the use of caffeine however it's generally not worth the risk as it interferes with the ability to use the first two means.
+In the context of Games pressure it's most desirable to be adaptable through the ability to increase of decrease one's degree of focus and energy through the mind alone. Second to this, control can be sought through exercise and breathing. Third priority to this is the use of caffeine however it's generally not worth the risk as it interferes with the ability to use the first two means.
 
-The mental energy associated with competing is chaotic and it's important to consider one's ability to pivot.
+The mental energy associated with constructing is chaotic and it's important to consider one's ability to pivot.
 
-The goal of contest simulation is to train oneself to become resilient and focused under such pressures by relying on the mechanics of the mind alone.
+The goal of The Construct is to train oneself to become resilient and focused under such pressures by relying on the mechanics of the mind alone.
 
 ...
