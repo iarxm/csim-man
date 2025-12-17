@@ -4,7 +4,7 @@ aliases: []
 tags: []
 hide: footer
 layout: default
-title: Principles of Simulation for Training The Surf Games
+title: Principles of Construct Training for The Surf Games
 toc: true
 version: v6
 ---
@@ -13,7 +13,7 @@ version: v6
 
 (DRAFT_V6 - EARLY DRAFT)
 
-Construct Motto - "Fast, High, Strong; As One"
+Construct Motto - "Fast, High, Strong; Become"
 
 Herein are principles for maximising the degree of realness in training for The Games and The Real. We will define this as constructing. The goal is to facilitate the type of experiences which accelerate technical and strategic development.
 
