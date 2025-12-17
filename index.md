@@ -11,7 +11,7 @@ version: v6
 
 (DRAFT_V6 - EARLY DRAFT)
 
-Construct Motto - "Gravity is but a rule to be broken"
+Construct Motto - "Gravity is but a notion for consideration"
 
 Herein lie principles for creating degrees of realness in training, in advance of both The Games and The Real. We will define this as constructing. The goal is to facilitate the type of experiences which accelerate technical and strategic development.
 
