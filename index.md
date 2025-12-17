@@ -9,14 +9,13 @@ toc: true
 version: v6
 ---
 
-# PRINCIPLES OF SIMULATION FOR TRAINING THE SURF GAMES
+# PRINCIPLES OF THE SURF CONSTRUCT
 
 (DRAFT_V6 - EARLY DRAFT)
 
-Olympic Motto - "Faster, Higher, Stronger; Together As One"
+Construct Motto - "Fast, High, Strong; As One"
 
-
-Herein are principles for achieving the mission of maximising the degree of realness in training for contest and The Games. We will define this as simulation. The goal is to facilitate the type of experiences which accelerate technical and strategic development.
+Herein are principles for maximising the degree of realness in training for The Games and The Real. We will define this as constructing. The goal is to facilitate the type of experiences which accelerate technical and strategic development.
 
 1. TOC
 {:toc}
@@ -25,7 +24,9 @@ Herein are principles for achieving the mission of maximising the degree of real
 
 ### Briefing
 
-These principles of training are written for all levels of skill. The density of detail will address all possible needs, therefore each athlete can focus in on parts which are personally relevant.
+These principles of training are written for all levels of skill
+The density of detail will address all possible needs, 
+therefore each athlete can address elements which are a priority to them.
 
 The simulator app to be used currently exists as a google spreadsheet and will be shared ahead of each games training.
 
