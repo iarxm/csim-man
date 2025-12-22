@@ -18,9 +18,7 @@ markdown: kramdown
 
 #color_scheme: light
 
-
 #remote_theme: just-the-docs/just-the-docs  # pin for reproducibility: just-the-docs/just-the-docs@v0.6.3
 #
 #plugins:
 #  - jekyll-remote-theme
-
