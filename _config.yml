@@ -1,8 +1,8 @@
 title: Principles Of The Surf Games Construct
 description: Official Manual of The SGC. To be used with The Construct Scoring App or some equivalent digitalized scoring system.
-url: https://pub.iarom.org/csim-man
+url: https://pub.iarom.org/csim-man/
 repository: iarxm/csim-man
-base-url: csim-man
+base-url: /csim-man/
 
 theme: jekyll-theme-minimal
 
@@ -15,10 +15,7 @@ markdown: kramdown
 #    min_level: 1
 #    max_level: 4
 #  search_enabled: true
-
 #color_scheme: light
-
 #remote_theme: just-the-docs/just-the-docs  # pin for reproducibility: just-the-docs/just-the-docs@v0.6.3
-#
 #plugins:
 #  - jekyll-remote-theme
